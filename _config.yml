@@ -92,7 +92,7 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : NTUST "https://www.ntust.edu.tw/"
-  uri              : "https://www.ee.ntust.edu.tw/"
+  #uri              : "https://www.ee.ntust.edu.tw/"
   bitbucket        :
   codepen          :
   dribbble         :
