@@ -90,9 +90,8 @@ author:
   NTUST            : "https://www.ntust.edu.tw/"
   EE@NTUST         : "https://www.ee.ntust.edu.tw/"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  "https://www.ntust.edu.tw/"
-  
+  researchgate     :  "https://www.ee.ntust.edu.tw/"
   bitbucket        :
   codepen          : "https://www.ee.ntust.edu.tw/"
   dribbble         :
