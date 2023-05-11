@@ -10,10 +10,12 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-# Malware Analysis
+## Malware Analysis
+  ![Malware Analysis](Malware_Analysis.png)
 
-# Cyber Threat Analysis
+## Cyber Threat Analysis
+  ![Cyber Threat Analysis](Cyber_Threat_Analysis.png)
 
-# Host-based intrution Detection
+## Host-based intrution Detection
 
 
