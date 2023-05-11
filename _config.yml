@@ -91,10 +91,10 @@ author:
   EE@NTUST         : "https://www.ee.ntust.edu.tw/"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : NTUST "https://www.ntust.edu.tw/"
-  #uri              : "https://www.ee.ntust.edu.tw/"
+  uri              :  "https://www.ntust.edu.tw/"
+  
   bitbucket        :
-  codepen          :
+  codepen          : "https://www.ee.ntust.edu.tw/"
   dribbble         :
   flickr           :
   facebook         :
