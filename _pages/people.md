@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+### Teacher
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Research Asistant
+- 冠崴
+- 熹琳
+### Student
