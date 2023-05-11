@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Advanced Network Technologies and Services Laboratory"
+  name             : "ANTS"
   avatar           : "IMG_0108.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Advanced Network Technologies and Services Laboratory"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
