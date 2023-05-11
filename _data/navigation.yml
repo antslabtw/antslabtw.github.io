@@ -4,6 +4,9 @@ main:
     url: /research/
 
   - title: "People"
-    url: /people/    
+    url: /people/  
+    
+  - title: "Guide"
+    url: /markdown/
 
   
