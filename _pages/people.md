@@ -10,10 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-# Teacher
+## Teacher
 
-# Research Asistant
+## Research Asistant
 - 冠崴
 - 熹琳
 
-# Student
+## Student
