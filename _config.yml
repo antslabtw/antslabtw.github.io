@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ANTS"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "ANTS@NTUST"
 description              : &description "personal description"
 url                      : https://antslabtw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
