@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication"
+title: ""
 permalink: /publication/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-# Yi-Ting Huang黃意婷
+# Yi-Ting Huang 黃意婷
 ## Publication 著作列表
 ### Journal
 1. **Yi-Ting Huang**, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen. (2022).
