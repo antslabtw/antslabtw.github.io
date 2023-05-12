@@ -87,10 +87,10 @@ author:
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  NTUST            : #"https://www.ntust.edu.tw/"
+  #NTUST            : "https://www.ntust.edu.tw/"
   EE_NTUST         : "https://www.ee.ntust.edu.tw/"
   email            :
-  uri              :  "https://www.ntust.edu.tw/"
+  #uri              :  "https://www.ntust.edu.tw/"
   researchgate     :  
   bitbucket        :
   codepen          :  
