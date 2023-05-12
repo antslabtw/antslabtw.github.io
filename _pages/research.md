@@ -14,7 +14,7 @@ author_profile: true
   ![Malware Analysis](/images/Malware_Analysis.png)
 
 ## Cyber Threat Intelligence
-  ![Cyber Threat Analysis](/images/Cyber_Threat_Analysis.png){:height="36px" width="36px"}
+  ![Cyber Threat Analysis](/images/Cyber_Threat_Analysis.png){:height="50%" width="50%"}
 
 ## Host-based Intrusion Detection
 
