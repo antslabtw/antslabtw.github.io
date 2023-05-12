@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 # Publication 著作列表
-#### Journal
+### Journal
 1. **Yi-Ting Huang**, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen. (2022).
 Open Source Intelligence for Malicious Behavior Discovery and Interpretation. IEEE Transactions on
 Dependable and Secure Computing. 19(2), 776-789. **[IF = 7.329]**
@@ -27,7 +27,7 @@ Questions to Assess Comprehension while Reading. Journal of Natural Language Eng
 Multimedia Content Summarization System for Video Recommendation. Journal of Educational
 Technology & Society, 12(1), 49-61. **[IF = 3.522]**
 
-#### Conference
+### Conference
 6. Chiao-Cheng Huang, Pei-Yu Huang, Ying-Ren Kuo, Guo-Wei Wong, **Yi-Ting Huang**, Yeali S. Sun,
 and Meng Chang Chen. (2022). Building Cybersecurity Ontology for Understanding and Reasoning
 Adversary Tactics and Techniques. In 2022 IEEE International Conference on Big Data Workshop
@@ -75,7 +75,7 @@ International Conference on Advanced Learning Technologies, 862-864.
 (2007). Multimedia Content Summarization and Application to Video Recommendation. In Proceed-
 ings of Technology Enhanced Learning Conference, 23-30
 
-#### Domestic Conference
+### Domestic Conference
 20. 陳智聰、**黃意婷**、孫雅麗、陳孟彰（2021年）。建構資安威脅知識本體庫。TANET 2021 臺灣網際網
 路研討會。**[Best Paper Award Nominee]**
 21. Yu-Chieh Chen, Pei-Yu Huang, Chun Lin, **Yi-Ting Huang** & Meng Chang Chen. (2020). Headline
