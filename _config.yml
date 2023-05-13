@@ -83,40 +83,40 @@ author:
   name             : "ANTS"
   avatar           : "IMG_0108.jpeg"
   bio              : "Advanced Network Technologies and Services Laboratory"
+  NTUST            : "https://www.ntust.edu.tw/"
+  EE@NTUST         : "https://www.ee.ntust.edu.tw/"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  #NTUST            : "https://www.ntust.edu.tw/"
-  EE_NTUST         : "https://www.ee.ntust.edu.tw/"
-  email            :
+  #email            :
   #uri              :  "https://www.ntust.edu.tw/"
-  researchgate     :  
-  bitbucket        :
-  codepen          :  
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  #researchgate     :  
+  #bitbucket        :
+  #codepen          :  
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
   #github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
+  #google_plus      :
+  #keybase          :
+  #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  #lastfm           :
+  #linkedin         :
   #orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
   #twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
