@@ -116,10 +116,10 @@
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
       {% if author.NTUST %}
-        <li><a href="{{ author.NTUST }}"><i class="fas fa-fw fa-graduation-cap"></i> NTUST</a></li>
+        <li><a href="{{ author.NTUST }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> NTUST</a></li>
       {% endif %}
       {% if author.EE %}
-        <li><a href="{{ author.EE }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+        <li><a href="{{ author.EE }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> EE@NTUST</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
