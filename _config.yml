@@ -88,9 +88,9 @@ author:
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   #email            :
-  uri              :  "https://www.ntust.edu.tw/"
+  #uri              :  "https://www.ntust.edu.tw/"
   #researchgate     :  
   #bitbucket        :
   #codepen          :  
@@ -105,13 +105,13 @@ author:
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
   #linkedin         :
-  orc1d            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   #pinterest        :
   #soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/123456/username
+  #stackoverflow    : http://stackoverflow.com/users/123456/username
   #steam            :
   #tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   #vine             :
   #weibo            :
   #xing             :
