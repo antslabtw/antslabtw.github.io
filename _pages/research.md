@@ -21,7 +21,7 @@ author_profile: true
 ![HIPS](/images/HIPS.png){:height="60%" width="60%"}
 
 <div align="center">
-    <img src="/images/HIPS.png">
+    <img src="/images/HIPS.png" width="70%" height="70%">
 </div>
 
   
