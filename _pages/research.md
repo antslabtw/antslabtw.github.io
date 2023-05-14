@@ -25,11 +25,11 @@ author_profile: true
 <!-- ![HIPS](/images/HIPS.png){:height="60%" width="60%"} -->
 
 <div align="center">
-    <img src="/images/HIPS.png" width="70%" height="70%">
+    <img src="/images/HIPS.png" width="65%" height="65%">
 </div>
 
   
-#### MITRE ATT&CK based Audit log Analysis
+### MITRE ATT&CK based Audit log Analysis
 Cyber attacks have recently proliferated, causing damages that cost individuals and companies dearly. Our research focus on discover attack techniques and detect APT in host-based audit logs. We propose a provenance-based intrusion detection method which is designed to correlate the context of data flow and analyze causal relationships to detect multi-stage attacks. Based on the provenance graph, we designed a series of algorithms such as behavior abstraction and semantics inference to detect the attack behaviors (i.e., TTPs) occurring on the system. By exploring the correlation between the attack behaviors, we further discover potential APT attacks that may be hidden in the system. To effectively defend against the complexity and evolving of cyber threats, we also develop an automated method for generating synthesized red team campaigns based on the MITRE ATT&CK framework and the common cyber attacks lifecycle.
 
 
