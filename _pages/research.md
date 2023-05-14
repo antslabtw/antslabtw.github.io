@@ -14,11 +14,15 @@ author_profile: true
   ![Malware Analysis](/images/Malware_Analysis.png)
 
 ## Cyber Threat Intelligence
-![Cyber Threat Analysis](/images/Cyber_Threat_Analysis.png){:height="50%" width="50%"}
+<!-- ![Cyber Threat Analysis](/images/Cyber_Threat_Analysis.png){:height="50%" width="50%"} -->
+
+<div align="center">
+    <img src="/images/Cyber_Threat_Analysis.png" width="40%" height="40%">
+</div>
 
   
 ## Host-based Intrusion Detection
-![HIPS](/images/HIPS.png){:height="60%" width="60%"}
+<!-- ![HIPS](/images/HIPS.png){:height="60%" width="60%"} -->
 
 <div align="center">
     <img src="/images/HIPS.png" width="70%" height="70%">
