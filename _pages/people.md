@@ -16,11 +16,11 @@ author_profile: true
 
 <p><img src="/images/bio-photo.jpg" align="left"/>
   <font color="#3C3C3C">冠崴</font><br>
-  abcd<br><br><br><br><br><br><br><br><br><br>
+  abcd<br><br><br><br><br><br><br>
 </p>
 <p><img src="/images/bio-photo.jpg" align="left"/>
   <font color="#3C3C3C">熹琳</font><br>
-  abcd<br><br><br><br><br><br><br><br><br><br>
+  abcd<br><br><br><br><br><br><br>
 </p>
 
 ## Student
