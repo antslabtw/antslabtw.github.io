@@ -14,15 +14,15 @@ author_profile: true
 
 ## Research Asistant
 
-<p><img arc="/images/bio-photo.jpg" align="left"/>
+<body><img src="/images/bio-photo.jpg" align="left"/>
   <font color="#3C3C3C">冠崴</font><br>
   abcd
-</p>
-
-
-
-![bio1](/images/bio-photo.jpg)<font color="#3C3C3C">**冠崴**</font><br>
-
+</body>
+<br>
+<body><img src="/images/bio-photo.jpg" align="left"/>
+  <font color="#3C3C3C">熹琳</font><br>
+  abcd
+</body>
 
 
 
