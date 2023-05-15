@@ -13,8 +13,8 @@ author_profile: true
 ## Teacher
 
 ## Research Asistant
-- 冠崴
-- 熹琳
+- ![bio1](images/bio-photo.jpg)冠崴
+- ![bio2](images/bio-photo.jpg)熹琳
 
 ## Student
 ### 研究生：
