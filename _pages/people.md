@@ -22,12 +22,12 @@ author_profile: true
 <h1 style= "background:#efe8dc">&nbsp; Research Asistant</h1>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#b29362">&nbsp;邵冠崴</font><br>
-   &nbsp;<br><br><br><br><br><br>
+   &nbsp;M.S., Department of Mechanical Engineering, National Cheng-Kung University<br><br><br><br><br><br>
 </p>
 
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#b29362" width="150">&nbsp;李熹琳 Si-Lin Li</font><br>
-   &nbsp;B.S., Statistics, National Taipei University<br><br><br><br><br><br>
+   &nbsp;B.S., Department of Statistics, National Taipei University<br><br><br><br><br><br>
 </p>
 
 <!-- Student -->
