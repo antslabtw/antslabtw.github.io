@@ -14,13 +14,13 @@ author_profile: true
 
 ## Research Asistant
 
-<p><img src="/images/bio-photo.jpg" height="50" align="left"/>
-   <font color="#3C3C3C">&nbsp;冠崴</font><br>
+<p><img src="/images/bio-photo.jpg" height="75" align="left"/>
+   <font color="#3C3C3C"><b>&nbsp;冠崴</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
-   <font color="#3C3C3C">&nbsp;熹琳</font><br>
+   <font color="#3C3C3C" face="serif"><b>&nbsp;熹琳</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
