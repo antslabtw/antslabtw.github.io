@@ -14,20 +14,14 @@ author_profile: true
 
 ## Research Asistant
 
-<body><img src="/images/bio-photo.jpg" align="left"/>
+<p><img src="/images/bio-photo.jpg" align="left"/>
   <font color="#3C3C3C">冠崴</font><br>
-  abcd
-</body>
-<br>
-<body><img src="/images/bio-photo.jpg" align="left"/>
+  abcd<br><br><br><br><br><br><br><br><br><br>
+</p>
+<p><img src="/images/bio-photo.jpg" align="left"/>
   <font color="#3C3C3C">熹琳</font><br>
-  abcd
-</body>
-
-
-
-
-![bio2](/images/bio-photo.jpg)<font color="#3C3C3C">**熹琳**</font>
+  abcd<br><br><br><br><br><br><br><br><br><br>
+</p>
 
 ## Student
 ### 研究生：
