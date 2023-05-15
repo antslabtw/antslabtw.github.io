@@ -11,7 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:#B8A38E;font-weight:700;font-size:20px"> Malware Analysis </span>
+<span style="color:#B8A38E;font-weight:700;font-size:38px"> Malware Analysis </span>
+<div align="center">
+    <img src="/images/Malware_Analysis.png" width="80%" height="80%">
+</div>
   
 ### AI-based cybersecurity solution for Malicious Behavior Discovery and Interpretation
 The rise of cyber crime markets has led to the development of sophisticated malware, posing a significant challenge to current defensive technologies. In response to this issue, AI-based malware behavior analysis utilizing deep neural networks has shown promise in achieving scalability and accuracy for various cybersecurity tasks. Our research aims to address this challenge through the development of MAMBA (MITRE ATT&CK-based Malicious Behavior Analysis), which utilizes the MITRE ATT&CK framework as a reference for interpreting malware behavior.
@@ -24,7 +27,7 @@ The design of the MAMBA neural network includes binding embeddings, resource att
   
   
   
-# Cyber Threat Intelligence
+<span style="color:#B8A38E;font-weight:700;font-size:38px"> Cyber Threat Intelligence </span> 
 <div align="center">
     <img src="/images/Cyber_Threat_Analysis.png" width="40%" height="40%">
 </div>
@@ -34,9 +37,7 @@ Cyber threat intelligence (CTI) reports provide an overall picture of the fast-e
   
   
   
-# Host-based Intrusion Detection
-<!-- ![HIPS](/images/HIPS.png){:height="60%" width="60%"} -->
-
+<span style="color:#B8A38E;font-weight:700;font-size:38px"> Host-based Intrusion Detection </span> 
 <div align="center">
     <img src="/images/HIPS.png" width="65%" height="65%">
 </div>
