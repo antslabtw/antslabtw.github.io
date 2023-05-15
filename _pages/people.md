@@ -15,12 +15,12 @@ author_profile: true
 ## Research Asistant
 
 <p><img src="/images/bio-photo.jpg" height="75" align="left"/>
-   <font color="#3C3C3C" face="微軟正黑體"><b>&nbsp;冠崴</b></font><br>
+   <font color="#b29362" face="微軟正黑體"><b>&nbsp;冠崴</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
-   <font color="#3C3C3C" face="serif"><b>&nbsp;熹琳</b></font><br>
+   <font color="#b29362" face="serif"><b>&nbsp;熹琳</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
