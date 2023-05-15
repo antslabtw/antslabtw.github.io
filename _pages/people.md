@@ -19,7 +19,7 @@ author_profile: true
 </p>
 
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
-   <font color="#b29362">&nbsp;熹琳</font><br>
+   <font color="#b29362" width="150">&nbsp;熹琳</font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
