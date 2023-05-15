@@ -10,11 +10,16 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+<!-- Teacher -->
+<div>
 <h1 style= "background:#efe8dc">&nbsp; Teacher</h1>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#b29362">&nbsp;黃意婷 Yi-Ting Huang</font><br>
-   &nbsp;Ph.D., Information Management, National Taiwan University<br><br><br><br><br><br>
-  
+   &nbsp;Ph.D., Information Management, National Taiwan University
+</div> 
+
+<!-- Research Asistant -->
 <h1 style= "background:#efe8dc">&nbsp; Research Asistant</h1>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#b29362">&nbsp;邵冠崴</font><br>
@@ -26,6 +31,7 @@ author_profile: true
    &nbsp;B.S., Statistics, National Taipei University<br><br><br><br><br><br>
 </p>
 
+<!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#b29362">&nbsp;陳羿琪</font><br>
