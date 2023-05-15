@@ -13,13 +13,21 @@ author_profile: true
 ## Teacher
 
 ## Research Asistant
-![bio1](/images/bio-photo.jpg)<font color="#003060">冠崴</font><br>
+
+<p><img arc="/images/bio-photo.jpg" align="left">
+  <font color="#3C3C3C">**冠崴**</font><br>
+  abcd
+</p>
+
+
+
+![bio1](/images/bio-photo.jpg)<font color="#3C3C3C">**冠崴**</font><br>
 
 
 
 
 
-![bio2](/images/bio-photo.jpg)<span style="color:green;">熹琳</span>
+![bio2](/images/bio-photo.jpg)<font color="#3C3C3C">**熹琳**</font>
 
 ## Student
 ### 研究生：
