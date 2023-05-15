@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 ## Teacher
 
-## Research Asistant
+<body bgcolor="#74521b"><h2>Research Asistant<h2></body>
 
 <p><img src="/images/bio-photo.jpg" height="75" align="left"/>
    <font color="#b29362" face="微軟正黑體"><b>&nbsp;冠崴</b></font><br>
@@ -20,7 +20,7 @@ author_profile: true
 </p>
 
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
-   <font color="#b29362" face="serif"><b>&nbsp;熹琳</b></font><br>
+   <font color="#b29362" face="微軟正黑體"><b>&nbsp;熹琳</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
