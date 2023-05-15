@@ -23,7 +23,7 @@ author_profile: true
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
-<h1 style= "background:#efe8dc" style="line-height:1.6">&nbsp; Student</h1>
+<h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#3C3C3C">&nbsp;羿琪</font><br>
    &nbsp;MS. student<br><br><br><br><br><br>
