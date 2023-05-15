@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 ## Teacher
 
-<h2 style= "background:#74521b">Research Asistant<h2>
+<h1 style= "background:#74521b"><font color="white">Research Asistant</font></h1>
 <p><img src="/images/bio-photo.jpg" height="75" align="left"/>
    <font color="#b29362" face="微軟正黑體"><b>&nbsp;冠崴</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
