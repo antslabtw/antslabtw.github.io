@@ -27,30 +27,27 @@ author_profile: true
 ## Student
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#3C3C3C">&nbsp;羿琪</font><br>
-   &nbsp;M.S. student<br><br><br><br><br><br>
+   &nbsp;MS. student<br><br><br><br><br><br>
 </p>
 
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#3C3C3C">&nbsp;柏翰</font><br>
-   &nbsp;abcd<br><br><br><br><br><br>
+   &nbsp;BS. student<br><br><br><br><br><br>
 </p>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#3C3C3C">&nbsp;崇綸</font><br>
-   &nbsp;abcd<br><br><br><br><br><br>
+   &nbsp;BS. student<br><br><br><br><br><br>
 </p>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#3C3C3C">&nbsp;宗嶧</font><br>
-   &nbsp;abcd<br><br><br><br><br><br>
+   &nbsp;BS. student<br><br><br><br><br><br>
 </p>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#3C3C3C">&nbsp;冠語</font><br>
-   &nbsp;abcd<br><br><br><br><br><br>
+   &nbsp;BS. student<br><br><br><br><br><br>
 </p>
 <p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#3C3C3C">&nbsp;柔尹</font><br>
-   &nbsp;abcd<br><br><br><br><br><br>
+   &nbsp;BS. student<br><br><br><br><br><br>
 </p>
 
-  - 宗嶧
-  - 冠語
-  - 柔尹
