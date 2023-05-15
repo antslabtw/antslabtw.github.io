@@ -13,7 +13,7 @@ author_profile: true
 <h1 style= "background:#efe8dc">&nbsp; Teacher</h1>
 
 <h1 style= "background:#efe8dc">&nbsp; Research Asistant</h1>
-<p><img src="/images/bio-photo.jpg" height="75" align="left"/>
+<p><img src="/images/bio-photo.jpg" height="100" align="left"/>
    <font color="#b29362" face="微軟正黑體"><b>&nbsp;冠崴</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
