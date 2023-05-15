@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-![bio2](/images/bio-photo.jpg)熹琳
+![bio2](/images/bio-photo.jpg)<span style="color:green;">熹琳</span>
 
 ## Student
 ### 研究生：
