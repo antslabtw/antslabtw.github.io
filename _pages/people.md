@@ -13,8 +13,13 @@ author_profile: true
 ## Teacher
 
 ## Research Asistant
-- ![bio1](images/bio-photo.jpg)冠崴
-- ![bio2](images/bio-photo.jpg)熹琳
+![bio1](/images/bio-photo.jpg)<font color="#003060">冠崴</font><br>
+
+
+
+
+
+![bio2](/images/bio-photo.jpg)熹琳
 
 ## Student
 ### 研究生：
