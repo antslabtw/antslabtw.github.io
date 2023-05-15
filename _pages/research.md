@@ -11,8 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-# <font color=#B8A38E>Malware Analysis</font>
-  ![Malware Analysis](/images/Malware_Analysis.png)
+<span style="color:#B8A38E;font-weight:700;font-size:20px"> Malware Analysis </span>
   
 ### AI-based cybersecurity solution for Malicious Behavior Discovery and Interpretation
 The rise of cyber crime markets has led to the development of sophisticated malware, posing a significant challenge to current defensive technologies. In response to this issue, AI-based malware behavior analysis utilizing deep neural networks has shown promise in achieving scalability and accuracy for various cybersecurity tasks. Our research aims to address this challenge through the development of MAMBA (MITRE ATT&CK-based Malicious Behavior Analysis), which utilizes the MITRE ATT&CK framework as a reference for interpreting malware behavior.
