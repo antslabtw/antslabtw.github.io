@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-# Malware Analysis
+
+# <font color=#B8A38E>Malware Analysis</font>
   ![Malware Analysis](/images/Malware_Analysis.png)
   
 ### AI-based cybersecurity solution for Malicious Behavior Discovery and Interpretation
