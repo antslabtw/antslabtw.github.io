@@ -15,7 +15,7 @@ author_profile: true
 ## Research Asistant
 
 <p><img src="/images/bio-photo.jpg" height="75" align="left"/>
-   <font color="#3C3C3C"><b>&nbsp;冠崴</b></font><br>
+   <font color="#3C3C3C" face="微軟正黑體"><b>&nbsp;冠崴</b></font><br>
    &nbsp;abcd<br><br><br><br><br><br>
 </p>
 
