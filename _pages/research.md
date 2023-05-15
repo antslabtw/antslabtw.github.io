@@ -20,7 +20,7 @@ author_profile: true
       <li>Leveraging resource dependencies among processes</li>
     </ul>
   <p style="padding: 10px; text-align: justify; white-space: normal;">The design of the MAMBA neural network includes binding embeddings, resource attention, and group attention to enable the discovery of malicious behaviors in examined malware.</p>  
-</div><br><br>  
+</div><br>  
 
 <!-- Cyber Threat Intelligence Paragraph-->
 <span style="color:#AB9278;font-weight:700;font-size:38px"> Cyber Threat Intelligence </span> 
@@ -31,7 +31,7 @@ author_profile: true
 <h3>Cybersecurity Ontology for Understanding and Reasoning Adversary Tactics and Techniques</h3>
 <div style= "background:#FDF8F5">
   <p style="padding: 10px; text-align: justify; white-space: normal;">Cyber threat intelligence (CTI) reports provide an overall picture of the fast-evolving attack scenario with semantic descriptions and lists of manipulated resources, offering valuable information about adversaries. To combat increasingly sophisticated cyber threats, CTI can help cybersecurity analysts handle potential attacks as they are unveiled. However, automated extraction of valuable information from unstructured texts remains an ongoing challenge. To address this issue, we designed an information extraction method and constructed an ontology structure capable of integrating parsed information from CTI reports into each instance. This ontology can be used for potential cybersecurity applications, such as semantic reasoning to identify possible adversary groups. This actionable intelligence can directly facilitate threat detection or threat hunting.</p>
-</div><br><br>  
+</div><br>  
   
 <!-- Host-based Intrusion Detection Paragraph-->
 <span style="color:#AB9278;font-weight:700;font-size:38px"> Host-based Intrusion Detection </span> 
