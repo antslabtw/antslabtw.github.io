@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:#B8A38E;font-weight:700;font-size:38px"> Malware Analysis </span>
+<span style="color:#AB9278;font-weight:700;font-size:38px"> Malware Analysis </span>
 <div align="center">
     <img src="/images/Malware_Analysis.png" width="80%" height="80%">
 </div>
@@ -27,7 +27,7 @@ The design of the MAMBA neural network includes binding embeddings, resource att
   
   
   
-<span style="color:#B8A38E;font-weight:700;font-size:38px"> Cyber Threat Intelligence </span> 
+<span style="color:#AB9278;font-weight:700;font-size:38px"> Cyber Threat Intelligence </span> 
 <div align="center">
     <img src="/images/Cyber_Threat_Analysis.png" width="40%" height="40%">
 </div>
@@ -37,7 +37,7 @@ Cyber threat intelligence (CTI) reports provide an overall picture of the fast-e
   
   
   
-<span style="color:#B8A38E;font-weight:700;font-size:38px"> Host-based Intrusion Detection </span> 
+<span style="color:#AB9278;font-weight:700;font-size:38px"> Host-based Intrusion Detection </span> 
 <div align="center">
     <img src="/images/HIPS.png" width="65%" height="65%">
 </div>
