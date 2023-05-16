@@ -29,6 +29,7 @@ author_profile: true
    <font color="#b29362" width="150">&nbsp;李熹琳 Si-Lin Li</font><br>
    &nbsp;B.S., Statistics, National Taipei University<br><br><br><br><br><br>
 </p>
+<br>
 
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
