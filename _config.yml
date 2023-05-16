@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ANTS"
+title                    : "ANTS LAB"
 title_separator          : "-"
 name                     : &name "ANTS@NTUST"
 description              : &description "personal description"
