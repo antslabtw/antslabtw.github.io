@@ -17,7 +17,7 @@ Dependable and Secure Computing. 19(2), 776-789. **[IF = 7.329]**
 2. **Yi-Ting Huang**, Ting-Yi Chen, Shun-Wen Hsiao, & Yeali S. Sun. Learning Dynamic Malware Repre-
 sentation from Common Behavior. Journal of Information Science and Engineering, 38(6), 1317-1334.
 **[IF = 0.541]**
-3. **Yi-Ting Huang**g, Yeali S. Sun, & Meng Chang Chen. (2022). TagSeq: Malicious behavior discovery
+3. **Yi-Ting Huang**, Yeali S. Sun, & Meng Chang Chen. (2022). TagSeq: Malicious behavior discovery
 using dynamic analysis. PLOS ONE. **[IF = 3.752]**
 4. Jack Mostow, **Yi-Ting Huang**, Hyeju Jang, Anders Weinstein, Joe Valeri, & Donna Gates. (2017).
 Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze
