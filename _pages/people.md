@@ -13,6 +13,8 @@ author_profile: true
 <div align="center">
   <img src="/images/Group1.jpg" width="70%" height="70%">
 </div>
+<br>
+
 <!-- Director -->
 <h1 style= "background:#efe8dc">&nbsp; Director</h1>
 
