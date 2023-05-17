@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<img src="/images/Group1.jpg" height="50%" align="center" />
+<img src="/images/Group1.jpg" height="10%" align="center" />
 <!-- Director -->
 <h1 style= "background:#efe8dc">&nbsp; Director</h1>
 
