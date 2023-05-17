@@ -12,6 +12,8 @@
 
 {% if seo_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
+{% elsif page.title == '' and page.author_profile == true %}
+  {% assign seo_title = "Welcome to ANTS lab" %}
 {% endif %}
 
 {% if site.url %}
