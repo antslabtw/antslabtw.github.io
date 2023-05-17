@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- Director -->
 <h1 style= "background:#efe8dc">&nbsp; Director</h1>
-<p><img src="/images/Yi-Ting.jpg" width="10%" height="10% align="left" style="padding:10px;"/>
+<p><img src="/images/Yi-ting.jpg" width="10%" height="10% align="left" style="padding:10px;"/>
    <font color="#b29362">&nbsp;黃意婷 Yi-Ting Huang</font><br>
    &nbsp;Ph.D., Information Management, National Taiwan University<br><br><br><br><br><br>
 <br>
