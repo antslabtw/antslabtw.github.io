@@ -12,7 +12,7 @@ author_profile: true
 
 ### Journal
 1. **Yi-Ting Huang**, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen. (2022). Open Source Intelligence for Malicious Behavior Discovery and Interpretation. IEEE Transactions on Dependable and Secure Computing. 19(2), 776-789. **[IF = 7.329]**
-2. **Yi-Ting Huang**, Ting-Yi Chen, Shun-Wen Hsiao, & Yeali S. Sun. Learning Dynamic Malware Representation from Common Behavior. Journal of Information Science and Engineering, 38(6), 1317-1334. **[IF = 0.541]**<font color="#ff0000">[Annual Best Paper Award]</font>
+2. **Yi-Ting Huang**, Ting-Yi Chen, Shun-Wen Hsiao, & Yeali S. Sun. Learning Dynamic Malware Representation from Common Behavior. Journal of Information Science and Engineering, 38(6), 1317-1334. **[IF = 0.541]**<font color="#ff0000"><b>[Annual Best Paper Award]</b></font>
 3. **Yi-Ting Huang**, Yeali S. Sun, & Meng Chang Chen. (2022). TagSeq: Malicious behavior discovery using dynamic analysis. PLOS ONE. **[IF = 3.752]**
 4. Jack Mostow, **Yi-Ting Huang**, Hyeju Jang, Anders Weinstein, Joe Valeri, & Donna Gates. (2017). Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. Journal of Natural Language Engineering, 23(2), 245–294. **[IF = 1.065]**
 5. Jie Chi Yang, **Yi-Ting Huang**, Chi Cheng Tsai, Ching I Chung & Yu Chieh Wu. (2009). An Automatic Multimedia Content Summarization System for Video Recommendation. Journal of Educational Technology & Society, 12(1), 49-61. **[IF = 3.522]**
@@ -34,7 +34,7 @@ author_profile: true
 19. **Yi-Ting Huang**, Chi Cheng Tsai, Ching I Chung, Chia-Hsing Shen, Yu Chieh Wu & Jie Chi Yang. (2007). Multimedia Content Summarization and Application to Video Recommendation. In Proceedings of Technology Enhanced Learning Conference, 23-30
 
 ### Domestic Conference
-20. 陳智聰、**黃意婷**、孫雅麗、陳孟彰（2021年）。建構資安威脅知識本體庫。TANET 2021 臺灣網際網路研討會。<font color="#ff0000">**[Best Paper Award]**</font>
+20. 陳智聰、**黃意婷**、孫雅麗、陳孟彰（2021年）。建構資安威脅知識本體庫。TANET 2021 臺灣網際網路研討會。<font color="#ff0000"><b>[Best Paper Award]</b></font>
 21. Yu-Chieh Chen, Pei-Yu Huang, Chun Lin, **Yi-Ting Huang** & Meng Chang Chen. (2020). Headline Diagnosis: Manipulation of Content Farm Headlines. In Proceedings of the 26th Taiwan Academic Network (TANET 2020), 680-684.
 22. Chia-Lin Chen, Pei-Yu Huang, **Yi-Ting Huang** & Chun Lin. (2019). Approach to Predicting News – A Precise Multi-LSTM Network With BERT. In Proceedings of the 25th International Conference on Information Management & Practice (IMP2019), 112.
 23. Ya-Min Tseng, **Yi-Ting Huang**, Meng Chang Chen & Yeali S. Sun. (2014). Generating Comprehension Questions using Paraphrase. In Proceedings of the 19th Conference on Technologies and Applications of Artificial Intelligence (TAAI 2014), 310-321.
