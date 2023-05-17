@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: ''
 excerpt: "About ANTS Lab"
 author_profile: true
 redirect_from: 
