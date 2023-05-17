@@ -38,5 +38,5 @@ author_profile: true
   <li><font color="#b29362">&nbsp;&nbsp;吳崇綸 Wu,Chun-Lun</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai,Zong-Yi</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao,Guan-Yu</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen,Rou-Yin</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen,Jou-Yin</font></li>
 </ul>
