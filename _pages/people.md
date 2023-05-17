@@ -38,7 +38,7 @@ author_profile: true
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <ul>
   <li><font color="#b29362">&nbsp;&nbsp;陳羿琪 Chen,Yi-Chi</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;周柏翰 Zhou,Bo-Han</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;周伯翰 Chou,Po-Han</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;吳崇綸 Wu,Chun-Lun</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai,Zong-Yi</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao,Guan-Yu</font></li>
