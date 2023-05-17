@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 # Yi-Ting Huang 黃意婷 -->
-## Publication 著作列表
+
 ### Journal
 1. **Yi-Ting Huang**, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen. (2022).
 Open Source Intelligence for Malicious Behavior Discovery and Interpretation. IEEE Transactions on
