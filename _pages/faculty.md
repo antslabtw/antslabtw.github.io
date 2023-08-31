@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-<table style="border-style:none;">
+<table style="border-color:#FFAC55FF;border-style:hidden;">
   <tr>
     <td rowspan="3"><img src="/images/Yi-ting3.jpg" align="left" height="50%"/></td>
     <td><font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br></td>
