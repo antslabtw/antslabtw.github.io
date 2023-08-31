@@ -15,8 +15,8 @@ author_profile: true
 <table style="border:0px">
   <tr>
     <td rowspan="3"><img src="/images/Yi-ting3.jpg" align="left" height="50%"/></td>
+    <td><font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br></td>
   </tr>
-  <tr><font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br></tr>
   <tr>
     &nbsp;Assistant Professor<br>
     &nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
