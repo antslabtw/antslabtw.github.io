@@ -15,7 +15,7 @@ author_profile: true
 <!-- Director -->
 <h1 style= "background:#efe8dc">&nbsp; Director</h1>
 
-<kbd><img src="/images/Yi-ting3.jpg" align="left" height="40%"/></kbd>
+<kbd><img src="/images/Yi-ting3.jpg" align="left" height="60%"/></kbd>
    <font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br>
    &nbsp;Assistant Professor<br>
    &nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
@@ -25,9 +25,9 @@ author_profile: true
    &nbsp;Email: ythuang @ mail.ntust.edu.tw<br>
    &nbsp;[Google Scholar](https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en)<br>
    &nbsp;ORCID iD: 0000-0002-6315-8927<br>
-<ul>   
+
   We dedicate ourselves to the development of cutting-edge technologies for **cybersecurity**, **deep learning**, and **artificial intelligence**, and to protect machines stay reliable, resilient and robust.<br>
-</ul>
+
   
 <h1 style= "background:#efe8dc">&nbsp; Research interests</h1>
 <ul>
