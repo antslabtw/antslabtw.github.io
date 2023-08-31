@@ -27,18 +27,20 @@ author_profile: true
   We dedicate ourselves to the development of cutting-edge technologies for **cybersecurity**, **deep learning**, and **artificial intelligence**, and to protect machines stay reliable, resilient and robust.<br>
 
 <!-- Research interests -->  
-<h1 style= "background:#efe8dc">&nbsp; Research interests</h1>
-<ul>
-  *&nbsp;&nbsp;Malware analysis, Cyber Threat Intelligence analysis
-  *&nbsp;&nbsp;Deep Learning, Artificial Intelligence, Natural Language Processing
-</ul>
+  # Research interests
+
+  * &nbsp;&nbsp;Malware analysis, Cyber Threat Intelligence analysis
+  * &nbsp;&nbsp;Deep Learning, Artificial Intelligence, Natural Language Processing
+
 <!-- Teaching -->
-<h1 style= "background:#efe8dc">&nbsp; Teaching</h1>
-  *&nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305**論文研討(一)**
-  *&nbsp;&nbsp;Fall 2023/Fall 2022: EC1011301 計算機程式與應用
-  *&nbsp;&nbsp;Fall 2023: EE1008701物件導向程式設計
-  *&nbsp;&nbsp;Spring 2023: EE2502702/AT2502701 Python 程式設計
-  *&nbsp;&nbsp;Spring 2023: EE2501702	 R 程式設計
-  *&nbsp;&nbsp;Fall 2022: EE5515701 資訊安全與人工智慧分析
-  *&nbsp;&nbsp;Fall 2021: IM5062深度學習實作與應用
+
+  # Teaching
+
+  * &nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305**論文研討(一)**
+  * &nbsp;&nbsp;Fall 2023/Fall 2022: EC1011301 **計算機程式與應用**
+  * &nbsp;&nbsp;Fall 2023: EE1008701 **物件導向程式設計**
+  * &nbsp;&nbsp;Spring 2023: EE2502702/AT2502701 **Python 程式設計**
+  * &nbsp;&nbsp;Spring 2023: EE2501702 **R 程式設計**
+  * &nbsp;&nbsp;Fall 2022: EE5515701 **資訊安全與人工智慧分析**
+  * &nbsp;&nbsp;Fall 2021: IM5062 **深度學習實作與應用**
 
