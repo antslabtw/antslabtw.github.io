@@ -15,7 +15,7 @@ author_profile: true
 <!-- Director -->
 <h1 style= "background:#efe8dc">&nbsp; Director</h1>
 
-<kbd><img src="/images/Yi-ting3.jpg" align="left" height="60%"/></kbd>
+<kbd><img src="/images/Yi-ting3.jpg" align="left" height="200px"/></kbd>
    <font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br>
    &nbsp;Assistant Professor<br>
    &nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
@@ -37,11 +37,11 @@ author_profile: true
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <ul>
-  <li>&nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305<font bold>論文研討(一)</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;Fall 2023/Fall 2022: EC1011301 計算機程式與應用</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;Fall 2023: EE1008701物件導向程式設計</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;Spring 2023: EE2502702/AT2502701 Python 程式設計</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;Spring 2023: EE2501702	 R 程式設計</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;Fall 2022: EE5515701 資訊安全與人工智慧分析</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;Fall 2021: IM5062深度學習實作與應用</font></li>
+  <li>&nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305<bold>論文研討(一)</bold></li>
+  <li>&nbsp;&nbsp;Fall 2023/Fall 2022: EC1011301 計算機程式與應用</li>
+  <li>&nbsp;&nbsp;Fall 2023: EE1008701物件導向程式設計</li>
+  <li>&nbsp;&nbsp;Spring 2023: EE2502702/AT2502701 Python 程式設計</li>
+  <li>&nbsp;&nbsp;Spring 2023: EE2501702	 R 程式設計</li>
+  <li>&nbsp;&nbsp;Fall 2022: EE5515701 資訊安全與人工智慧分析</li>
+  <li>&nbsp;&nbsp;Fall 2021: IM5062深度學習實作與應用</li>
 </ul>
