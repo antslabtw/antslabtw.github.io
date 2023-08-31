@@ -28,16 +28,17 @@ author_profile: true
    
 
 <li>
-  <font bold>We dedicate ourselves to the development of cutting-edge technologies for cybersecurity, deep learning, and       artificial intelligence, and to protect machines stay reliable, resilient and robust.</font><br>
+  We dedicate ourselves to the development of cutting-edge technologies for **cybersecurity**, **deep learning**, and **artificial intelligence**, and to protect machines stay reliable, resilient and robust.<br>
 </li>
 <h1 style= "background:#efe8dc">&nbsp; Research interests</h1>
-<li><font color="#b29362">&nbsp;&nbsp;Malware analysis, Cyber Threat Intelligence analysis</font></li>
-<li><font color="#b29362">&nbsp;&nbsp;Deep Learning, Artificial Intelligence, Natural Language Processing</font></li>
-
+<ul>
+  <li><font color="#b29362">&nbsp;&nbsp;Malware analysis, Cyber Threat Intelligence analysis</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;Deep Learning, Artificial Intelligence, Natural Language Processing</font></li>
+</ul>
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <ul>
-  <li><font color="#b29362">&nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305論文研討(一)</font></li>
+  <li>&nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305<font bold>論文研討(一)</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;Fall 2023/Fall 2022: EC1011301 計算機程式與應用</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;Fall 2023: EE1008701物件導向程式設計</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;Spring 2023: EE2502702/AT2502701 Python 程式設計</font></li>
