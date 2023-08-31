@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/images/Yi-ting3.jpg" align="left" width="100%" height="100%"/>
+<img src="/images/Yi-ting3.jpg" align="left" width="30%" height="30%"/>
    <font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br>
    &nbsp;Assistant Professor<br>
    &nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
@@ -19,8 +19,8 @@ author_profile: true
    &nbsp;Office: T2-425<br>
    &nbsp;Phone: 02-27376686 # 6687<br>   
    &nbsp;Email: ythuang @ mail.ntust.edu.tw<br>
-   &nbsp;<i class="fas fa-fw fa-graduation-cap" style="color: #356ac3;"></i>[Google Scholar](https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en)<br>
-   &nbsp;<i class="ai ai-orcid-square ai-fw" style="color: #a4cc34;"></i>ORCID iD: 0000-0002-6315-8927<br>
+   &nbsp;<i class="fas fa-fw fa-graduation-cap" style="color: #356ac3;"></i>&nbsp;[Google Scholar](https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en)<br>
+   &nbsp;<i class="ai ai-orcid-square ai-fw" style="color: #a4cc34;"></i>&nbsp;ORCID iD: 0000-0002-6315-8927<br>
 
 We dedicate ourselves to the development of cutting-edge technologies for **cybersecurity**, **deep learning**, and **artificial intelligence**, and to protect machines stay reliable, resilient and robust.<br>
 
