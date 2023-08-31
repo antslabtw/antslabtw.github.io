@@ -15,7 +15,7 @@ author_profile: true
 <!-- Director -->
 <h1 style= "background:#efe8dc">&nbsp; Director</h1>
 
-<img src="/images/Yi-ting.jpg" align="left" width="40%" height="40%"/>
+<kbd><img src="/images/Yi-ting3.jpg" align="left" height="40%"/></kbd>
    <font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br>
    &nbsp;Assistant Professor<br>
    &nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
