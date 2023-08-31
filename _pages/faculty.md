@@ -12,22 +12,26 @@ author_profile: true
 {% include base_path %}
 
 
-<table style="border:0px">
+<table style="border-style:none;">
   <tr>
     <td rowspan="3"><img src="/images/Yi-ting3.jpg" align="left" height="50%"/></td>
     <td><font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br></td>
   </tr>
   <tr>
+    <td>
     &nbsp;Assistant Professor<br>
-    &nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
-    &nbsp;[National Taiwan University of Science and Technology](https://www.ntust.edu.tw/)<br><br>
+    &nbsp;<a herf="https://www.ee.ntust.edu.tw/">Department of Electrical Engineering</a><br>
+    &nbsp;<a herf="https://www.ntust.edu.tw/">National Taiwan University of Science and Technology</a><br><br>
+    </td>  
   </tr>
   <tr>
+    <td>
     &nbsp;Office: T2-425<br>
     &nbsp;Phone: 02-27376686 # 6687<br>   
     &nbsp;Email: ythuang @ mail.ntust.edu.tw<br>
-    &nbsp;[Google Scholar](https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en)<br>
+    &nbsp;<a herf="https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en">Google Scholar</a><br>
     &nbsp;ORCID iD: 0000-0002-6315-8927<br>
+    </td>
   </tr>
 </table>
 
