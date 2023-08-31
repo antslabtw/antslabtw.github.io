@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/images/Yi-ting3.jpg" align="left" height="100%"/>
+<img src="/images/Yi-ting3.jpg" align="left"/>
    <font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br>
    &nbsp;Assistant Professor<br>
    &nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
