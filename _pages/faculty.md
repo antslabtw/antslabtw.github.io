@@ -34,7 +34,7 @@ We dedicate ourselves to the development of cutting-edge technologies for **cybe
 
 # Teaching
 
-  * &nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305**論文研討(一)**
+  * &nbsp;&nbsp;Fall 2023: EE8001303/ EE8001305 **論文研討(一)**
   * &nbsp;&nbsp;Fall 2023/Fall 2022: EC1011301 **計算機程式與應用**
   * &nbsp;&nbsp;Fall 2023: EE1008701 **物件導向程式設計**
   * &nbsp;&nbsp;Spring 2023: EE2502702/AT2502701 **Python 程式設計**
