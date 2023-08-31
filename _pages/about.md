@@ -28,7 +28,7 @@ redirect_from:
 
 </ul>
 
-<h1 style= "text-color:3D9140">&nbsp; We're hiring!</h1>
+<h1 style= "color:3D9140"> We're hiring!</h1>
 We are looking for **highly-motivated** PhD, master, undergraduate students and [research assistants](https://www.104.com.tw/job/7zeim?jobsource=ios_share) who are interested in cybersecurity, deep learning, and NLP.
 
 The followings are some skills we're looking for:
