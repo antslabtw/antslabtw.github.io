@@ -25,11 +25,10 @@ author_profile: true
    &nbsp;Email: ythuang @ mail.ntust.edu.tw<br>
    &nbsp;[Google Scholar](https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en)<br>
    &nbsp;ORCID iD: 0000-0002-6315-8927<br>
-   
-
-<li>
+<ul>   
   We dedicate ourselves to the development of cutting-edge technologies for **cybersecurity**, **deep learning**, and **artificial intelligence**, and to protect machines stay reliable, resilient and robust.<br>
-</li>
+</ul>
+  
 <h1 style= "background:#efe8dc">&nbsp; Research interests</h1>
 <ul>
   <li><font color="#b29362">&nbsp;&nbsp;Malware analysis, Cyber Threat Intelligence analysis</font></li>
