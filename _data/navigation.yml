@@ -1,7 +1,7 @@
 # main links links
 main:
-  #- title: "Faculty"
-  #  url: /faculty/  
+  - title: "Faculty"
+    url: /faculty/  
     
   - title: "People"
     url: /people/     
