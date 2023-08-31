@@ -29,7 +29,7 @@ author_profile: true
     <font color="#b29362">&nbsp;&nbsp;邵冠崴 Shao,Guan-Wei</font><br>
   </li>
   <li>
-    <font color="#b29362">&nbsp;&nbsp;李熹琳 Si-Lin Li</font><br>
+    <font color="#b29362">&nbsp;&nbsp;李熹琳 Li,Si-Lin</font><br>
   </li>
 </ul>
 <br>
