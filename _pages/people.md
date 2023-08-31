@@ -26,10 +26,10 @@ author_profile: true
 <h1 style= "background:#efe8dc">&nbsp; Research Asistant</h1>
 <ul>
   <li>
-    <font color="#b29362">&nbsp;&nbsp;邵冠崴 Shao,Guan-Wei</font><br>
+    <font color="#b29362">&nbsp;&nbsp;邵冠崴 Shao, Guan-Wei</font><br>
   </li>
   <li>
-    <font color="#b29362">&nbsp;&nbsp;李熹琳 Li,Si-Lin</font><br>
+    <font color="#b29362">&nbsp;&nbsp;李熹琳 Li, Si-Lin</font><br>
   </li>
 </ul>
 <br>
@@ -37,10 +37,10 @@ author_profile: true
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <ul>
-  <li><font color="#b29362">&nbsp;&nbsp;陳羿琪 Chen,Yi-Chi</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;周伯翰 Chou,Po-Han</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;吳崇綸 Wu,Chun-Lun</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai,Zong-Yi</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao,Guan-Yu</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen,Jou-Yin</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;陳羿琪 Chen, Yi-Chi</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;周伯翰 Chou, Po-Han</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;吳崇綸 Wu, Chun-Lun</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai, Zong-Yi</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao, Guan-Yu</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen, Jou-Yin</font></li>
 </ul>
