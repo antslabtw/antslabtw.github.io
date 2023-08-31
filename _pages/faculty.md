@@ -29,8 +29,8 @@ author_profile: true
     &nbsp;Office: T2-425<br>
     &nbsp;Phone: 02-27376686 # 6687<br>   
     &nbsp;Email: ythuang @ mail.ntust.edu.tw<br>
-    &nbsp;<img src="/images/google-scholar.png" align="left" height="10%"/><a href="https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en">Google Scholar</a><br>
-    &nbsp;<img src="/images/ORCID.png" align="left" height="20px"/>ORCID iD: 0000-0002-6315-8927<br>
+    &nbsp;<<i class="fas fa-fw fa-graduation-cap"></i><a href="https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en">Google Scholar</a><br>
+    &nbsp;<i class="ai ai-orcid-square ai-fw"></i>ORCID iD: 0000-0002-6315-8927<br>
     </td>
   </tr>
 </table>
