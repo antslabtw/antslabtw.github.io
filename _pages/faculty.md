@@ -41,7 +41,7 @@ float:left;
      &nbsp;[Google Scholar](https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en)<br>
      &nbsp;ORCID iD: 0000-0002-6315-8927<br>
 </div>
-
+<div style="clear:both;"></div>
 
    
 
