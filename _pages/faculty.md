@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-<table style="border-color:#FFFFFF;">
+<table style="border-width:0px">
   <tr>
     <td rowspan="3"><img src="/images/Yi-ting3.jpg" align="left" height="50%"/></td>
     <td><font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br></td>
@@ -29,7 +29,7 @@ author_profile: true
     &nbsp;Office: T2-425<br>
     &nbsp;Phone: 02-27376686 # 6687<br>   
     &nbsp;Email: ythuang @ mail.ntust.edu.tw<br>
-    &nbsp;<img src="/images/google-scholar.png" align="left" height="10px"/><a href="https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en">Google Scholar</a><br>
+    &nbsp;<img src="/images/google-scholar.png" align="left" height="10%"/><a href="https://scholar.google.com/citations?user=uZIy830AAAAJ&hl=en">Google Scholar</a><br>
     &nbsp;<img src="/images/ORCID.png" align="left" height="20px"/>ORCID iD: 0000-0002-6315-8927<br>
     </td>
   </tr>
