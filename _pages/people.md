@@ -43,4 +43,7 @@ author_profile: true
   <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai,&nbsp; Zong-Yi</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao,&nbsp; Guan-Yu</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen,&nbsp; Jou-Yin</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;林妍汝 Lin,&nbsp; Yen-Ru</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;陳怡安 Chen,&nbsp; Yi-An</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;楊明翊 Yang,&nbsp; Ming-Yi</font></li>
 </ul>
