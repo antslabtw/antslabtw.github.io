@@ -12,5 +12,5 @@ main:
   - title: "Publication"
     url: /publication/
 
-  - title: "Resource"
-    url: /resource/
+  #- title: "Resource"
+  #  url: /resource/
