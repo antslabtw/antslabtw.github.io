@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: /research/
+permalink: /resource/
 author_profile: true
 ---
 <!-- Malware Analysis Paragraph-->
