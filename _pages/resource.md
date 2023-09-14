@@ -11,11 +11,12 @@ author_profile: true
 <div style= "background:#FDF8F5">
   
 <!--這裡放影片-->
-<div align="center">
-  <video width="900" controls>
+<video width="900" controls>
   <source src="mamba_video.mp4" type="video/mp4">
   <source src="mamba_video.ogg" type="video/ogg">
   Your browser does not support HTML video.
 </video>
+<div align="center">
+  
 <!--     <img src="/images/Malware_Analysis.png" width="80%" height="80%">  -->
 </div>
