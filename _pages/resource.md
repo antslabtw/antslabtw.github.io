@@ -18,6 +18,5 @@ author_profile: true
 </video>
 
 <div align="center">
-  
-<!--     <img src="/images/Malware_Analysis.png" width="80%" height="80%">  -->
+  <img src="/images/Malware_Analysis.png" width="80%" height="80%"> 
 </div>
