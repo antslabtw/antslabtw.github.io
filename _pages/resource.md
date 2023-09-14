@@ -11,8 +11,6 @@ author_profile: true
 <div style= "background:#FDF8F5">
   
 <!--這裡放影片-->
-
-
 <div align="center">
   <img src="/images/Malware_Analysis.png" width="80%" height="80%"> 
 </div>
