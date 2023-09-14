@@ -13,9 +13,9 @@ author_profile: true
 <!--這裡放影片-->
 <div align="center">
   <video width="600" height="400" controls>
-  <source src="_pages/mamba_video.mp4" type="video/mp4">
-  <source src="_pages/mamba_video.ogg" type="video/ogg">
-  Your browser does not support HTML video.
+  <source src="/_pages/mamba_video.mp4" type="video/mp4">
+<!--   <source src="/_pages/mamba_video.ogg" type="video/ogg">
+  Your browser does not support HTML video. -->
 </video>
 <!--   <img src="/images/Malware_Analysis.png" width="80%" height="80%">  -->
 </div>
