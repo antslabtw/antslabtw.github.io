@@ -12,7 +12,7 @@ author_profile: true
   
 <!--這裡放影片-->
 <div align="center">
-  <video width="600" height="400" controls>
+  <video width="60%" height="40%" controls>
   <source src="/_pages/mamba_video.mp4" type="video/mp4">
 <!--   <source src="/_pages/mamba_video.ogg" type="video/ogg">
   Your browser does not support HTML video. -->
