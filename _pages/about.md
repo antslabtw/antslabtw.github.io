@@ -33,7 +33,7 @@ We are looking for **highly-motivated** PhD, master, undergraduate students and 
 
 The followings are some skills we're looking for:
 
-*	Cybersecurity: It would be ideal if you have ‘hacker’ spirit. We especially welcome experienced in the Capture the Flag (CTF) challenge. If you are interested in cybersecurity but don't have much experience in it, we would encourage you to come to our lab (EE-602-2) and talk with us.
+*	Cybersecurity: It would be ideal if you have ‘hacker’ spirit. We especially welcome experienced in the Capture the Flag (CTF) challenge. If you are interested in cybersecurity but don't have much experience in it, we would encourage you to come to our lab (EE-603-2) and talk with us.
 *	Coding Skills: It would be ideal if you can code and build things. If you don't have much experience in programming, we would strongly encourage you to take some programming courses. 
 *	AI/ML/DL: We are using AI/ML/DL techniques as the primary tool to tackle on various field. If you are interested in our research but don't have much experience in it, we would encourage you to take some related courses.
 
