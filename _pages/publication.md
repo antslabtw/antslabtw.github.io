@@ -11,7 +11,7 @@ author_profile: true
 # Yi-Ting Huang 黃意婷 -->
 
 ### Journal
-1. Yeali S. Sun, Zhi-Kang Chen, **Yi-Ting Huang** & Meng Chang Chen. (2024). Unleashing Malware Analysis and Understanding With Generative AI. IEEE Security & Privacy. [IF = 1.9]
+1. Yeali S. Sun, Zhi-Kang Chen, **Yi-Ting Huang** & Meng Chang Chen. (2024). Unleashing Malware Analysis and Understanding With Generative AI. IEEE Security & Privacy. **[IF = 1.9]**
 2. Guo-Wei Wong, **Yi-Ting Huang**, Ying-Ren Guo, Yeali S. Sun, & Meng Chang Chen. (2023). Attention-Based API Locating for Malware Techniques. IEEE Transactions on Information Forensics and Security, 19, 1199 - 1212. **[IF = 6.3]**
 3. **Yi-Ting Huang**, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen. (2022). Open Source Intelligence for Malicious Behavior Discovery and Interpretation. IEEE Transactions on Dependable and Secure Computing. 19(2), 776-789. **[IF = 7.329]**
 4. **Yi-Ting Huang**, Ting-Yi Chen, Shun-Wen Hsiao, & Yeali S. Sun. Learning Dynamic Malware Representation from Common Behavior. Journal of Information Science and Engineering, 38(6), 1317-1334. **[IF = 0.541]**<font color="#ff0000"><b>[Annual Best Paper Award]</b></font>
