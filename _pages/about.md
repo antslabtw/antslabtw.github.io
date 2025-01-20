@@ -21,6 +21,7 @@ redirect_from:
 
 # What's News!
 <ul>
+    <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Oct. 2024</font></span> 黃意婷老師指導專題生陳柔尹、黃宗鐸、廖冠語 <a href="https://www.ee.ntust.edu.tw/var/file/27/1027/img/875896727.pdf">113學年度電機工程系最佳專題競賽</a></li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Oct. 2024</font></span> Congratulations! Our paper has been selected to receive <a href="/images/TANET.png">Best Paper Awards of TANET 2024</a></li>
   <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">July 2024</font></span> Congratulations! 黃意婷老師指導專題生陳柔尹錄取大專學生研究計畫</li>
 
