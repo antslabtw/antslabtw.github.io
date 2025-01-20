@@ -35,6 +35,12 @@ author_profile: true
 </ul>
 <br>
 
+<!-- Alumni -->
+<h1 style= "background:#efe8dc">&nbsp; Alumni</h1>
+<ul>
+  <li><font color="#b29362">&nbsp;&nbsp;陳羿琪 Chen,&nbsp; Yi-Chi</font></li>
+
+</ul>
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <ul>
