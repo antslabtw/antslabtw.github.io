@@ -31,6 +31,9 @@ author_profile: true
   <li>
     <font color="#b29362">&nbsp;&nbsp;李熹琳 Li,&nbsp; Si-Lin</font><br>
   </li>
+  <li>
+    <font color="#b29362">&nbsp;&nbsp;郭英仁 Kuo,&nbsp; Ying-Ren</font><br>
+  </li>
 </ul>
 <br>
 
