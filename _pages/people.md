@@ -44,7 +44,6 @@ author_profile: true
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <ul>
-  <li><font color="#b29362">&nbsp;&nbsp;陳羿琪 Chen,&nbsp; Yi-Chi</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;林妍汝 Lin,&nbsp; Yen-Ru</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;陳怡安 Chen,&nbsp; Yi-An</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;楊明翊 Yang,&nbsp; Ming-Yi</font></li>
