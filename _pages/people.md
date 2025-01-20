@@ -49,6 +49,7 @@ author_profile: true
   <li><font color="#b29362">&nbsp;&nbsp;王新元 Wang,&nbsp; Xin-Yuan</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;余仲恩 Yu,&nbsp; Chung En</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;沈婉瑛 Shen,&nbsp; Wan-Ying</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;楊晴安 Yang,&nbsp; Ching-An</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai,&nbsp; Zong-Yi</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao,&nbsp; Guan-Yu</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen,&nbsp; Jou-Yin</font></li>
