@@ -37,7 +37,7 @@ author_profile: true
 22. **Yi-Ting Huang**, Chi Cheng Tsai, Ching I Chung, Chia-Hsing Shen, Yu Chieh Wu & Jie Chi Yang. (2007). Multimedia Content Summarization and Application to Video Recommendation. In Proceedings of Technology Enhanced Learning Conference, 23-30
 
 ### Domestic Conference
-23. 陳羿琪、陳怡安、李熹琳、黃意婷（2024年）。	基於大型語言模型的資料擴增技術在網路威脅情資的攻擊手法分類研究。TANET 2024 臺灣網際網路研討會。<font color="#ff0000"><b>[Best Paper Award]</b></font>
+23. 陳羿琪、陳怡安、李熹琳、**黃意婷**（2024年）。	基於大型語言模型的資料擴增技術在網路威脅情資的攻擊手法分類研究。TANET 2024 臺灣網際網路研討會。<font color="#ff0000"><b>[Best Paper Award]</b></font>
 25. 陳智聰、**黃意婷**、孫雅麗、陳孟彰（2021年）。建構資安威脅知識本體庫。TANET 2021 臺灣網際網路研討會。<font color="#ff0000"><b>[Best Paper Award]</b></font>
 26. Yu-Chieh Chen, Pei-Yu Huang, Chun Lin, **Yi-Ting Huang** & Meng Chang Chen. (2020). Headline Diagnosis: Manipulation of Content Farm Headlines. In Proceedings of the 26th Taiwan Academic Network (TANET 2020), 680-684.
 27. Chia-Lin Chen, Pei-Yu Huang, **Yi-Ting Huang** & Chun Lin. (2019). Approach to Predicting News – A Precise Multi-LSTM Network With BERT. In Proceedings of the 25th International Conference on Information Management & Practice (IMP2019), 112.
