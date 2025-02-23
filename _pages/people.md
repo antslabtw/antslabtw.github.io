@@ -60,6 +60,9 @@ author_profile: true
   <li><font color="#b29362">&nbsp;&nbsp;張晉瑋 Zhang,&nbsp; Jin-Wei</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;梁凱鈞 Liang,&nbsp; Kai-Jun</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;劉冠廷 Liu,&nbsp; Guan-Ting</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;陳敬橋 Chen,&nbsp; Jing-Chiao</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;黃文良 Huang,&nbsp; Wen-Liang</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;胡承學 Hu,&nbsp; Cheng-Hsueh</font></li>
 
 </ul>
 
