@@ -11,14 +11,15 @@ author_profile: true
 # Yi-Ting Huang 黃意婷 -->
 
 ### Journal
-1. **Yi-Ting Huang**, R. Vaitheeshwari, Meng-Chang Chen, Ying-Dar Lin, Ren-Hung Hwang, Po-Ching Lin, Yuan-Cheng Lai, Eric Hsiao-Kuang Wu, Chung-Hsuan Chen, Zi-Jie Liao, & C.K. Chen. (2024). MITREtrieval: Retrieving MITRE Techniques From Unstructured Threat Reports by Fusion of Deep Learning and Ontology. IEEE Transactions on Network and Service Management. **[IF = 5.3]**
-2. Yeali S. Sun, Zhi-Kang Chen, **Yi-Ting Huang** & Meng Chang Chen. (2024). Unleashing Malware Analysis and Understanding With Generative AI. IEEE Security & Privacy. **[IF = 1.9]**
-3. Guo-Wei Wong, **Yi-Ting Huang**, Ying-Ren Guo, Yeali S. Sun, & Meng Chang Chen. (2023). Attention-Based API Locating for Malware Techniques. IEEE Transactions on Information Forensics and Security, 19, 1199 - 1212. **[IF = 6.3]**
-4. **Yi-Ting Huang**, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen. (2022). Open Source Intelligence for Malicious Behavior Discovery and Interpretation. IEEE Transactions on Dependable and Secure Computing. 19(2), 776-789. **[IF = 7.329]**
-5. **Yi-Ting Huang**, Ting-Yi Chen, Shun-Wen Hsiao, & Yeali S. Sun. Learning Dynamic Malware Representation from Common Behavior. Journal of Information Science and Engineering, 38(6), 1317-1334. **[IF = 0.541]**<font color="#ff0000"><b>[Annual Best Paper Award]</b></font>
-6. **Yi-Ting Huang**, Yeali S. Sun, & Meng Chang Chen. (2022). TagSeq: Malicious behavior discovery using dynamic analysis. PLOS ONE. **[IF = 3.752]**
-7. Jack Mostow, **Yi-Ting Huang**, Hyeju Jang, Anders Weinstein, Joe Valeri, & Donna Gates. (2017). Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. Journal of Natural Language Engineering, 23(2), 245–294. **[IF = 1.065]**
-8. Jie Chi Yang, **Yi-Ting Huang**, Chi Cheng Tsai, Ching I Chung & Yu Chieh Wu. (2009). An Automatic Multimedia Content Summarization System for Video Recommendation. Journal of Educational Technology & Society, 12(1), 49-61. **[IF = 3.522]**
+1. **Yi-Ting Huang**, R. Vaitheeshwari, Meng Chang Chen, Ying-Dar Lin, Ren-Hung Hwang, Po-Ching Lin, Yuan-Cheng Lai, Eric Hsiao-kuang Wu, Zi-Jie Liao, and C.K Chen. COMAT: A Cybersecurity Ontology based on MITRE ATT&CK. IEEE Network Magazine. **[IF = 6.8]**
+2. **Yi-Ting Huang**, R. Vaitheeshwari, Meng-Chang Chen, Ying-Dar Lin, Ren-Hung Hwang, Po-Ching Lin, Yuan-Cheng Lai, Eric Hsiao-Kuang Wu, Chung-Hsuan Chen, Zi-Jie Liao, & C.K. Chen. (2024). MITREtrieval: Retrieving MITRE Techniques From Unstructured Threat Reports by Fusion of Deep Learning and Ontology. IEEE Transactions on Network and Service Management. **[IF = 5.3]**
+3. Yeali S. Sun, Zhi-Kang Chen, **Yi-Ting Huang** & Meng Chang Chen. (2024). Unleashing Malware Analysis and Understanding With Generative AI. IEEE Security & Privacy. **[IF = 1.9]**
+4. Guo-Wei Wong, **Yi-Ting Huang**, Ying-Ren Guo, Yeali S. Sun, & Meng Chang Chen. (2023). Attention-Based API Locating for Malware Techniques. IEEE Transactions on Information Forensics and Security, 19, 1199 - 1212. **[IF = 6.3]**
+5. **Yi-Ting Huang**, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen. (2022). Open Source Intelligence for Malicious Behavior Discovery and Interpretation. IEEE Transactions on Dependable and Secure Computing. 19(2), 776-789. **[IF = 7.329]**
+6. **Yi-Ting Huang**, Ting-Yi Chen, Shun-Wen Hsiao, & Yeali S. Sun. Learning Dynamic Malware Representation from Common Behavior. Journal of Information Science and Engineering, 38(6), 1317-1334. **[IF = 0.541]**<font color="#ff0000"><b>[Annual Best Paper Award]</b></font>
+7. **Yi-Ting Huang**, Yeali S. Sun, & Meng Chang Chen. (2022). TagSeq: Malicious behavior discovery using dynamic analysis. PLOS ONE. **[IF = 3.752]**
+8. Jack Mostow, **Yi-Ting Huang**, Hyeju Jang, Anders Weinstein, Joe Valeri, & Donna Gates. (2017). Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. Journal of Natural Language Engineering, 23(2), 245–294. **[IF = 1.065]**
+9. Jie Chi Yang, **Yi-Ting Huang**, Chi Cheng Tsai, Ching I Chung & Yu Chieh Wu. (2009). An Automatic Multimedia Content Summarization System for Video Recommendation. Journal of Educational Technology & Society, 12(1), 49-61. **[IF = 3.522]**
 
 ### Conference
 9. Chiao-Cheng Huang, Pei-Yu Huang, Ying-Ren Kuo, Guo-Wei Wong, **Yi-Ting Huang**, Yeali S. Sun, and Meng Chang Chen. (2022). Building Cybersecurity Ontology for Understanding and Reasoning Adversary Tactics and Techniques. In 2022 IEEE International Conference on Big Data Workshop BDA4CID 2022
