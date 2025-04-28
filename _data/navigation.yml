@@ -15,5 +15,5 @@ main:
   - title: "Resource"
     url: /resource/
 
-  - title: "Demo"
-    url: /Demo/
+  #- title: "Demo"
+  #  url: /Demo/
