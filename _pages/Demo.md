@@ -12,12 +12,12 @@ author_profile: true
   
 <!--這裡放影片-->
 <div align="center">
-  <video width="100%" height="66%" controls>
-    
-  <iframe src="https://drive.google.com/file/d/1XF0ap8HOSRCmHsbo9wW235qGNwqxIIGU/preview" width="640" height="480" allow="autoplay"></iframe>
-<!--   <source src="/_pages/mamba_video.ogg" type="video/ogg">
-  Your browser does not support HTML video. -->
-</video>
-<!--   <img src="/images/Malware_Analysis.png" width="80%" height="80%">  -->
+  <iframe
+    src="https://drive.google.com/file/d/1XF0ap8HOSRCmHsbo9wW235qGNwqxIIGU/preview"
+    width="640"
+    height="480"
+    allow="autoplay"
+    allowfullscreen
+  ></iframe>
 </div>
 
