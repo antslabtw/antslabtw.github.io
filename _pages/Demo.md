@@ -14,9 +14,10 @@ author_profile: true
 <div align="center">
   <video width="100%" height="66%" controls>
     
-  <source src="https://drive.google.com/file/d/1XF0ap8HOSRCmHsbo9wW235qGNwqxIIGU/view?usp=sharing" type="video/mp4">
+  <iframe src="https://drive.google.com/file/d/1XF0ap8HOSRCmHsbo9wW235qGNwqxIIGU/preview" width="640" height="480" allow="autoplay"></iframe>
 <!--   <source src="/_pages/mamba_video.ogg" type="video/ogg">
   Your browser does not support HTML video. -->
 </video>
 <!--   <img src="/images/Malware_Analysis.png" width="80%" height="80%">  -->
 </div>
+
