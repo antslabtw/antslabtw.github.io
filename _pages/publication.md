@@ -11,7 +11,7 @@ author_profile: true
 # Yi-Ting Huang 黃意婷 -->
 
 ### Journal
-1. **Yi-Ting Huang**, R. Vaitheeshwari, Meng Chang Chen, Ying-Dar Lin, Ren-Hung Hwang, Po-Ching Lin, Yuan-Cheng Lai, Eric Hsiao-kuang Wu, Zi-Jie Liao, and C.K Chen.(2025) COMAT: A Cybersecurity Ontology based on MITRE ATT&CK. IEEE Network. **[IF = 6.8]**
+1. **Yi-Ting Huang**, R. Vaitheeshwari, Meng Chang Chen, Ying-Dar Lin, Ren-Hung Hwang, Po-Ching Lin, Yuan-Cheng Lai, Eric Hsiao-kuang Wu, Zi-Jie Liao, and C.K Chen. (2025) COMAT: A Cybersecurity Ontology based on MITRE ATT&CK. IEEE Network. **[IF = 6.8]**
 2. **Yi-Ting Huang**, R. Vaitheeshwari, Meng-Chang Chen, Ying-Dar Lin, Ren-Hung Hwang, Po-Ching Lin, Yuan-Cheng Lai, Eric Hsiao-Kuang Wu, Chung-Hsuan Chen, Zi-Jie Liao, & C.K. Chen. (2024). MITREtrieval: Retrieving MITRE Techniques From Unstructured Threat Reports by Fusion of Deep Learning and Ontology. IEEE Transactions on Network and Service Management. 4871 - 4887 **[IF = 5.3]**
 3. Yeali S. Sun, Zhi-Kang Chen, **Yi-Ting Huang** & Meng Chang Chen. (2024). Unleashing Malware Analysis and Understanding With Generative AI. IEEE Security & Privacy. 12 - 23 **[IF = 1.9]**
 4. Guo-Wei Wong, **Yi-Ting Huang**, Ying-Ren Guo, Yeali S. Sun, & Meng Chang Chen. (2023). Attention-Based API Locating for Malware Techniques. IEEE Transactions on Information Forensics and Security, 19, 1199 - 1212. **[IF = 6.3]**
