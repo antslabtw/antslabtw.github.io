@@ -40,7 +40,7 @@ author_profile: true
 24. **Yi-Ting Huang**, Chi Cheng Tsai, Ching I Chung, Chia-Hsing Shen, Yu Chieh Wu & Jie Chi Yang. (2007). Multimedia Content Summarization and Application to Video Recommendation. In Proceedings of Technology Enhanced Learning Conference, 23-30
 
 ### Domestic Conference
-23. **黃意婷**、吳崇綸、林妍汝、沈婉瑛 (2025年)。Mal-GPT:基於大型語言模型的MITRE ATT&CK框架生成惡意程式。<a href="/images/CISC2025.jpg">第三十五屆全國資訊安全會議</a>(Cryptology and Information Security Conference 2025)。
+23. **黃意婷**、吳崇綸、林妍汝、沈婉瑛 (2025年)。Mal-GPT:基於大型語言模型的MITRE ATT&CK框架生成惡意程式。<a href="/images/CISC_2025.jpg">第三十五屆全國資訊安全會議</a>(Cryptology and Information Security Conference 2025)。
 24. 陳羿琪、陳怡安、李熹琳、**黃意婷**（2024年）。基於大型語言模型的資料擴增技術在網路威脅情資的攻擊手法分類研究。TANET 2024 臺灣網際網路研討會。<font color="#ff0000"><b>[Best Paper Award]</b></font>
 25. 陳智聰、**黃意婷**、孫雅麗、陳孟彰（2021年）。建構資安威脅知識本體庫。TANET 2021 臺灣網際網路研討會。<font color="#ff0000"><b>[Best Paper Award]</b></font>
 26. Yu-Chieh Chen, Pei-Yu Huang, Chun Lin, **Yi-Ting Huang** & Meng Chang Chen. (2020). Headline Diagnosis: Manipulation of Content Farm Headlines. In Proceedings of the 26th Taiwan Academic Network (TANET 2020), 680-684.
