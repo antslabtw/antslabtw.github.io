@@ -8,13 +8,15 @@ author_profile: true
 ## 🦌 (MOOSE) Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring 🦌
 
 <div align="center" >
-This is synopsis page of <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> which is accepted to ACL 2025!
+Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!
 </div>
 
 <div align="center">
 
   ## Model overview 
+  
   <img src="/images/aes.png"  width="60%" height="60%"/>
+
 </div>
 
 **MOOSE** framework is **the-state-of-the-art** model on **multi-trait cross prompt essay scoring**. It consist of serveral mechanism:
@@ -31,7 +33,10 @@ layer to learn non-prompt specific representation of the essay.
 
 
 ## Source Code
+
 * The source code of the model is [here](https://github.com/antslabtw/MOOSE-AES)
 * The online scoring engine is [here](https://github.com/tempxdxd)
+
 ## Citation
+
 To be update
