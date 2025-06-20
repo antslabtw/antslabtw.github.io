@@ -30,7 +30,6 @@ layer to learn non-prompt specific representation of the essay.
 </div>
 
 
-
 ## Source Code
 * The source code of the model is [here](https://github.com/antslabtw/MOOSE-AES)
 * The online scoring engine is [here](https://github.com/tempxdxd)
