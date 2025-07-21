@@ -27,11 +27,15 @@ Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trai
 </div>
 
 <div align="left" >
-MOOSE is multi traits cross prompt essay scoring model which imitates how human raters evaluate essays. MOOSE is composed of three experts:<br>
+MOOSE is multi traits cross prompt essay scoring model which imitates how human raters evaluate essays. MOOSE is composed of three experts:<br><br>
 1) Scoring Expert: Learn essay inherent scoring cues.<br>
 2) Ranking Expert: Compare relative quality across different essays.<br>
-3) Adherence Expert: Estimate the degree of prompt adherence.<br>
-MOOSE not only outperfom previos method and stable no matter in prompts and traits.<br><br>
+3) Adherence Expert: Estimate the degree of prompt adherence.<br><br>
+It not only outperforms previos method and stables no matter in prompts and traits.
+ <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">The source code of the model is </span>
+  <a href="https://github.com/antslabtw/MOOSE-AES" style="margin: 10px; width: 120px;text-decoration:none; color:#337ab7;">here</a>
+   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">and the online scoring engine is </span>
+  <a href="https://github.com/antslabtw/MOOSE-AES" style="margin: 10px; width: 120px;text-decoration:none; color:#337ab7;">here.</a><br><br>
 </div>
 
 <div align="center" >
@@ -46,7 +50,7 @@ MOOSE not only outperfom previos method and stable no matter in prompts and trai
 </div>
 <div align="center" >
 
-## Model overview 
+# Model overview 
 
 ---------------------------------------  
 
@@ -67,10 +71,10 @@ layer to learn non-prompt specific representation of the essay.
 </div>
 
 
-## Source Code
-
-* The source code of the model is [here](https://github.com/antslabtw/MOOSE-AES)
-* The online scoring engine is [here](https://github.com/tempxdxd)
+<!--booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+url = "https://aclanthology.org/2024.acl-long.1/",
+oi = "10.18653/v1/2024.acl-long.1",
+pages = "1--17",-->
 
 ## Citation
 ```bibtex
@@ -87,10 +91,5 @@ layer to learn non-prompt specific representation of the essay.
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
-
-    abstract = "Finetuning large language models (LLMs) has been empirically effective on a variety of downstream tasks. Existing approaches to finetuning an LLM either focus on parameter-efficient finetuning, which only updates a small number of trainable parameters, or attempt to reduce the memory footprint during the training phase of the finetuning. Typically, the memory footprint during finetuning stems from three contributors: model weights, optimizer states, and intermediate activations. However, existing works still require considerable memory, and none can simultaneously mitigate the memory footprint of all three sources. In this paper, we present quantized side tuing (QST), which enables memory-efficient and fast finetuning of LLMs by operating through a dual-stage process. First, QST quantizes an LLM{'}s model weights into 4-bit to reduce the memory footprint of the LLM{'}s original weights. Second, QST introduces a side network separated from the LLM, which utilizes the hidden states of the LLM to make task-specific predictions. Using a separate side network avoids performing back-propagation through the LLM, thus reducing the memory requirement of the intermediate activations. Finally, QST leverages several low-rank adaptors and gradient-free downsample modules to significantly reduce the trainable parameters, so as to save the memory footprint of the optimizer states. Experiments show that QST can reduce the total memory footprint by up to 2.3{\texttimes} and speed up the finetuning process by up to 3$\times$ while achieving competent performance compared with the state-of-the-art. When it comes to full finetuning, QST can reduce the total memory footprint up to 7$\times$."
+    abstract = "utomated Essay Scoring (AES) plays a crucial role in language assessment. In particular, cross-prompt essay trait scoring provides learners with valuable feedback to improve their writing skills. However, due to the scarcity of prompts, most existing methods overlook critical information, such as content from prompts or essays, resulting in incomplete assessment perspectives. In this paper, we propose a robust AES framework, the Mixture of Ordered Scoring Experts (MOOSE), which integrates information from both prompts and essays. MOOSE employs three specialized experts to evaluate (1) the overall quality of an essay, (2) the relative quality across multiple essays, and (3) the relevance between an essay and its prompt. MOOSE introduces the ordered aggregation of assessment results from these experts along with effective feature learning techniques. Experimental results demonstrate that MOOSE achieves exceptionally stable and state-of-the-art performance in both cross-prompt scoring and multi-trait scoring on the ASAP++ dataset. The source code is released at https://github.com/antslabtw/MOOSE-AES"
 }
-<!--booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-url = "https://aclanthology.org/2024.acl-long.1/",
-oi = "10.18653/v1/2024.acl-long.1",
-pages = "1--17",-->
