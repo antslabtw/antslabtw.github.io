@@ -87,7 +87,7 @@ pages = "1--17",-->
       Jia-Ching Wang and
      Yi-Ting Huang",
     booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
-    month = aug,
+    month = "aug",
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
