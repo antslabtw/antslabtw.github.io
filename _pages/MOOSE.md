@@ -77,7 +77,7 @@ layer to learn non-prompt specific representation of the essay.
 url = "https://aclanthology.org/2024.acl-long.1/",
 oi = "10.18653/v1/2024.acl-long.1",
 pages = "1--17",-->
-<h3 style="background:#efe8dc;>&nbsp;Citation</h3>
+<h3 style="background:#efe8dc;">&nbsp;Citation</h3>
 
 <pre style="background: #f6f8fa; padding: 16px; border-radius: 6px; overflow-x: auto;">
 <code>
