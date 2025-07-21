@@ -47,11 +47,14 @@ It not only outperforms previos method and stables no matter in prompts and trai
 <img src="/images/moose_result.png" align="center"  width="40%" height="40%"/>
 
 </div>
+
 <div align="center" >
 
-# Model overview 
+<span style="margin: 10px; width: 120px; text-decoration:none; color:#333; font-size: 30px; font-weight: bold;">
+  Model overview
+</span>
 
----------------------------------------  
+<hr style="border: none; height: 5px; background-color: #ccc; width: 80%;">
 
 <img src="/images/aes.png"  width="60%" height="60%"/>
 
