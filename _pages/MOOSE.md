@@ -1,9 +1,10 @@
+---
 layout: archive
 title: "MOOSE"
 permalink: /MOOSE/
 author_profile: true
 ---
----
+
 ## 🦌 (MOOSE) Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring 🦌
 ---------------------------------------
 <div align="center">
