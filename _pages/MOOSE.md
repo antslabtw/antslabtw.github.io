@@ -17,12 +17,12 @@ author_profile: true
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Kuan-Wei Shao</span>
   <a href="https://homepage.iis.sinica.edu.tw/pages/kinyiu/" style="margin: 10px; width: 120px;text-decoration:none; color:#337ab7;">Chien-Yao Wang</a>
   <a href="https://dlmsl.csie.ncu.edu.tw/faculty" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Jia-Ching Wang</a>
-  <a href="https://antslabtw.github.io/faculty/" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Yi-Ting Huang</a>
+  <a href="https://antslabtw.github.io/faculty/" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Yi-Ting Huang</a><br>
 
 </div>
 
 <div align="center" >
-Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!<br><br>
+Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!<br>
 </div>
 
 
@@ -47,7 +47,7 @@ The source code of the model is [here](https://github.com/antslabtw/MOOSE-AES) a
 
 <div align="center" >
 
-<h1 style= "background:#efe8dc";align="center">&nbsp;  Model overview </h1>
+<h1 style="background:#efe8dc; text-align: center;">&nbsp; Model overview </h1>
 
 <img src="/images/aes.png"  width="60%" height="60%"/>
 
