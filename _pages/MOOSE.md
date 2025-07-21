@@ -5,18 +5,22 @@ permalink: /MOOSE/
 author_profile: true
 ---
 
-## 🦌 (MOOSE) Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring 🦌
+<h1 style="background:#efe8dc; text-align: center;font-size: 2em;">&nbsp; Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</h1>
 
 <div align="center">
 
-  
+  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Po-Kai Chen</span>
+  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Bo-Wei Tsai</span>
+  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Kuan-Wei Shao</span>
+  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <a href="https://homepage.iis.sinica.edu.tw/pages/kinyiu/" style="margin: 10px; width: 120px;text-decoration:none; color:#337ab7;">Chien-Yao Wang</a>
+  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <a href="https://dlmsl.csie.ncu.edu.tw/faculty" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Jia-Ching Wang</a>
+  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <a href="https://antslabtw.github.io/faculty/" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Yi-Ting Huang</a><br>
-
 </div>
 
 ---------------------------------------
@@ -49,7 +53,7 @@ The source code of the model is [here](https://github.com/antslabtw/MOOSE-AES) a
 
 <div align="center" >
 
-<h1 style="background:#efe8dc; text-align: center;">&nbsp; Model overview </h1>
+<h2 style="background:#efe8dc; text-align: center;">&nbsp; Model overview </h2>
 
 <img src="/images/aes.png"  width="60%" height="60%"/>
 
@@ -72,7 +76,7 @@ layer to learn non-prompt specific representation of the essay.
 url = "https://aclanthology.org/2024.acl-long.1/",
 oi = "10.18653/v1/2024.acl-long.1",
 pages = "1--17",-->
-<h2 style="background:#efe8dc;>&nbsp;Citation</h2>
+<h3 style="background:#efe8dc;>&nbsp;Citation</h3>
 
 <pre style="background: #f6f8fa; padding: 16px; border-radius: 6px; overflow-x: auto;">
 <code>
