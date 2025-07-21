@@ -9,7 +9,7 @@ author_profile: true
 ---------------------------------------
 
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;"align="center">
+<div align="center">
 
   
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Po-Kai Chen</span>
@@ -18,7 +18,6 @@ author_profile: true
   <a href="https://homepage.iis.sinica.edu.tw/pages/kinyiu/" style="margin: 10px; width: 120px;text-decoration:none; color:#337ab7;">Chien-Yao Wang</a>
   <a href="https://dlmsl.csie.ncu.edu.tw/faculty" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Jia-Ching Wang</a>
   <a href="https://antslabtw.github.io/faculty/" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Yi-Ting Huang</a>
-
 
 </div>
 
