@@ -5,21 +5,21 @@ permalink: /MOOSE/
 author_profile: true
 ---
 
-<h1 style="background:#efe8dc; text-align: center;font-size: 2em;">&nbsp; Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</h1>
+<h1 style="background:#efe8dc; text-align: center;font-size: 36px;">&nbsp; Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</h1>
 
 <div align="center">
 
-  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
+  <span style="margin: 5px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Po-Kai Chen</span>
-  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
+  <span style="margin: 5px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Bo-Wei Tsai</span>
-  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
+  <span style="margin: 5px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">Kuan-Wei Shao</span>
-  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
+  <span style="margin: 5px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <a href="https://homepage.iis.sinica.edu.tw/pages/kinyiu/" style="margin: 10px; width: 120px;text-decoration:none; color:#337ab7;">Chien-Yao Wang</a>
-  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
+  <span style="margin: 5px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <a href="https://dlmsl.csie.ncu.edu.tw/faculty" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Jia-Ching Wang</a>
-  <span style="margin: 10px;width: 120px; text-decoration:none;color:#333;">🦌</span>
+  <span style="margin: 5px;width: 120px; text-decoration:none;color:#333;">🦌</span>
   <a href="https://antslabtw.github.io/faculty/" style="margin: 10px;width: 120px; text-decoration:none; color:#337ab7;">Yi-Ting Huang</a><br>
 </div>
 
