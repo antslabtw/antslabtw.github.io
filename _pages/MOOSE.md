@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "MOOSE"
+title: ""
 permalink: /MOOSE/
 author_profile: true
 ---
 
 ## 🦌 (MOOSE) Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring 🦌
 ---------------------------------------
-<div align="center">
+
+
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;"align="center">
 
   
@@ -22,12 +23,34 @@ author_profile: true
 </div>
 
 <div align="center" >
-Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!
+Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!<br><br>
 </div>
 
+<div align="left" >
+MOOSE is multi traits cross prompt essay scoring model which imitates how human raters evaluate essays. MOOSE is composed of three experts:<br>
+1) Scoring Expert: Learn essay inherent scoring cues.<br>
+2) Ranking Expert: Compare relative quality across different essays.<br>
+3) Adherence Expert: Estimate the degree of prompt adherence.<br>
+MOOSE not only outperfom previos method and stable no matter in prompts and traits.<br><br>
+</div>
+
+<div align="center" >
+<img src="/images/moose_illustration.png" align="center" width="22%" height="22%"/>
+
+
+
+
+
+<img src="/images/moose_result.png" align="center"  width="40%" height="40%"/>
+
+</div>
+<div align="center" >
+
 ## Model overview 
+
 ---------------------------------------  
-  <img src="/images/aes.png"  width="60%" height="60%"/>
+
+<img src="/images/aes.png"  width="60%" height="60%"/>
 
 </div>
 
