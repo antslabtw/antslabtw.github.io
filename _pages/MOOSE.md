@@ -5,7 +5,7 @@ permalink: /MOOSE/
 author_profile: true
 ---
 
-<h1 style="background:#efe8dc; text-align: center;font-size: 30px;">&nbsp; Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</h1>
+<h1 style="background:#efe8dc; text-align: center;font-size: 28px;">&nbsp; Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</h1>
 
 <div align="center">
 
@@ -28,9 +28,10 @@ author_profile: true
 
 
 <div align="center" >
-Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!<br><br>
+Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!<br>
 </div>
 
+---------------------------------------
 
 MOOSE is multi traits cross prompt essay scoring model which imitates how human raters evaluate essays. MOOSE is composed of three experts:<br><br>
 1) Scoring Expert: Learn essay inherent scoring cues.<br>
