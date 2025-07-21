@@ -1,4 +1,3 @@
-<img width="5156" height="350" alt="image" src="https://github.com/user-attachments/assets/6f8a1540-4824-452d-b859-da3c4b543a95" />---
 layout: archive
 title: "MOOSE"
 permalink: /MOOSE/
