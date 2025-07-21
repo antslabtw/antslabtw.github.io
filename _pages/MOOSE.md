@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 ## 🦌 (MOOSE) Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring 🦌
----------------------------------------
-
 
 <div align="center">
 
@@ -21,8 +19,12 @@ author_profile: true
 
 </div>
 
+---------------------------------------
+
+
+
 <div align="center" >
-Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!<br>
+Our paper <strong>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</strong> is accepted to ACL 2025!<br><br>
 </div>
 
 
@@ -70,7 +72,7 @@ layer to learn non-prompt specific representation of the essay.
 url = "https://aclanthology.org/2024.acl-long.1/",
 oi = "10.18653/v1/2024.acl-long.1",
 pages = "1--17",-->
-<h2>Citation</h2>
+<h2 style="background:#efe8dc;>&nbsp;Citation</h2>
 
 <pre style="background: #f6f8fa; padding: 16px; border-radius: 6px; overflow-x: auto;">
 <code>
