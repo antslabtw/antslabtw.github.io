@@ -25,12 +25,6 @@ author_profile: true
 <!-- Research Asistant -->
 <h1 style= "background:#efe8dc">&nbsp; Research Asistant</h1>
 <ul>
-  <li>
-    <font color="#b29362">&nbsp;&nbsp;邵冠崴 Shao,&nbsp; Guan-Wei</font><br>
-  </li>
-  <li>
-    <font color="#b29362">&nbsp;&nbsp;李熹琳 Li,&nbsp; Si-Lin</font><br>
-  </li>
 
 </ul>
 <br>
@@ -39,7 +33,8 @@ author_profile: true
 <h1 style= "background:#efe8dc">&nbsp; Alumni</h1>
 <ul>
   <li><font color="#b29362">&nbsp;&nbsp;陳羿琪 Chen,&nbsp; Yi-Chi</font></li>
-
+  <li><font color="#b29362">&nbsp;&nbsp;邵冠崴 Shao,&nbsp; Guan-Wei</font><br></li>
+  <li><font color="#b29362">&nbsp;&nbsp;李熹琳 Li,&nbsp; Si-Lin</font><br></li>
 </ul>
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
@@ -56,13 +51,15 @@ author_profile: true
   <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai,&nbsp; Zong-Yi</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao,&nbsp; Guan-Yu</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen,&nbsp; Jou-Yin</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;陳敬橋 Chen,&nbsp; Jing-Chiao</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;黃文良 Huang,&nbsp; Wen-Liang</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;胡承學 Hu,&nbsp; Cheng-Hsueh</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;江俋陞 Jiang,&nbsp; Yi-Sheng</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;張晉瑋 Zhang,&nbsp; Jin-Wei</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;梁凱鈞 Liang,&nbsp; Kai-Jun</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;劉冠廷 Liu,&nbsp; Guan-Ting</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;陳敬橋 Chen,&nbsp; Jing-Chiao</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;黃文良 Huang,&nbsp; Wen-Liang</font></li>
-  <li><font color="#b29362">&nbsp;&nbsp;胡承學 Hu,&nbsp; Cheng-Hsueh</font></li>
+  <li><font color="#b29362">&nbsp;&nbsp;吳昱葶 Wu,&nbsp; Yu-Ting</font></li>
+
 
 </ul>
 
