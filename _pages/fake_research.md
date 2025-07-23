@@ -32,6 +32,8 @@ author_profile: true
       <a href="https://github.com/antslabtw/MOOSE-AES" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
       <!-- 網頁連結二 -->
       <a href="https://antslabtw.github.io/MOOSE/" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
+      <!-- 網頁連結三 -->
+      <a href="https://76ed1b78b9113b3e56.gradio.live/" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
     </div>
   </div>
 </div>
