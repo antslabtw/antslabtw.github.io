@@ -42,7 +42,7 @@ author_profile: true
   <h5>Collaboration with <a href="https://homepage.iis.sinica.edu.tw/pages/mcc/index_en.html">Dr. Meng Chang Chen</a>, Research Center for Information Technology Innovation, Academia Sinica.</h5>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px; min-height: 250px;">
-  <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;background: white;">
+  <div style="width: 40%; min-width: 350px; display: flex; justify-content: center; align-items: center;background: white;">
     <img class="thumbnail" src="/images/Malware_Analysis.png" alt="Malware Analysis" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
@@ -60,7 +60,7 @@ author_profile: true
 <!-- 第三個區塊：APILI -->
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px; min-height: 250px;">
   <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <img class="thumbnail" src="/images/APILI.png" alt="APILI" style="align-self: center; width: auto; height: auto; max-width: 100%; max-height: 300px; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/APILI.png" alt="APILI" style="align-self: center; width: auto; height: auto; max-width: 100%; max-height: 500px; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Attention-Based API Locating for Malware Techniques</h2>
