@@ -42,7 +42,7 @@ author_profile: true
   <h5>Collaboration with <a href="https://homepage.iis.sinica.edu.tw/pages/mcc/index_en.html">Dr. Meng Chang Chen</a>, Research Center for Information Technology Innovation, Academia Sinica.</h5>
 </div>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px; min-height: 250px;">
-  <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;">
+  <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;background: white;">
     <img class="thumbnail" src="/images/Malware_Analysis.png" alt="Malware Analysis" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
@@ -60,7 +60,7 @@ author_profile: true
 <!-- 第三個區塊：APILI -->
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px; min-height: 250px;">
   <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <img class="thumbnail" src="/images/APILI.png" alt="Malware Analysis" style="width: auto; height: 70%; max-width: 100%; max-height: 70%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/APILI.png" alt="APILI" style="align-self: center; width: auto; height: auto; max-width: 100%; max-height: 300px; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Attention-Based API Locating for Malware Techniques</h2>
@@ -81,9 +81,13 @@ author_profile: true
     <p>Yi-Ting Huang, Ying-Ren Guo, Guo-Wei Wong, and Meng Chang Chen</p>
     <p>IEEE International Conference on Communications 2025</p>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
-      <a href="https://arxiv.org/pdf/2410.22602" style="background: #f4eeff; target="_blank"><img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" /></a>
-      <a href="https://antslabtw.github.io/files/[ICC]SFM_ythuang_20250609_final.pdf" style="background: #f4eeff; target="_blank"><img width="30" height="30" src="https://img.icons8.com/officexs/30/ppt.png" alt="PPT"/></a>
-    </div>
+      <a href="https://arxiv.org/pdf/2410.22602" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;">
+        <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" />
+      </a><a href="https://antslabtw.github.io/files/[ICC]SFM_ythuang_20250609_final.pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;">
+        <img width="30" height="30" src="https://img.icons8.com/officexs/30/ppt.png" alt="PPT"/>
+      </a>
+</div>
+
   </div>
 </div>
 
