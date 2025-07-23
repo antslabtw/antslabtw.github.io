@@ -12,7 +12,8 @@ author_profile: true
 </div>
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="/images/moose.png" alt="Moose Project" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/moose.png" alt="Moose Project"
+     style="align-self: center; width: auto; height: auto; max-width: 100%; max-height: 300px; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</h2>
@@ -21,16 +22,16 @@ author_profile: true
     <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
       <!-- PDF連結 -->
       <a href="https://antslabtw.github.io/files/ACL2025_AES__MOOSE__camera_ready_.pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
-      <!-- 網頁連結一 -->
-      <a href="https://github.com/antslabtw/MOOSE-AES" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
-      <!-- 網頁連結二 -->
-      <a href="https://antslabtw.github.io/MOOSE/" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
       <!-- YT連結 -->
       <a href="https://youtu.be/6zLJOUHe5HI" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="LINK"/></a>
       <!-- POSTER連結 -->
       <a href="/files/MOOSE_ACL25_POSTER_YT.pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=qD08hnhP3M8R&format=png&color=000000" alt="LINK"/></a>
       <!-- PPT連結 -->
       <a href="/files/MOOSE_ACL25_slide_YT_v7 (2).pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=20832&format=png&color=000000" alt="LINK"/></a>
+      <!-- 網頁連結一 -->
+      <a href="https://github.com/antslabtw/MOOSE-AES" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
+      <!-- 網頁連結二 -->
+      <a href="https://antslabtw.github.io/MOOSE/" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
     </div>
   </div>
 </div>
@@ -59,7 +60,7 @@ author_profile: true
 <!-- 第三個區塊：APILI -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="/images/APILI.png" alt="Malware Analysis" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/APILI.png" alt="Malware Analysis" style="width: auto; height: 70%; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Attention-Based API Locating for Malware Techniques</h2>
