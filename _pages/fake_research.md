@@ -106,6 +106,25 @@ author_profile: true
   </div>
 </div>
 
+<!-- CTI -->
+<div>
+  <h1 style="color:#AB9278;">Cyber Threat Intelligence</h1>
+</div>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px; min-height: 250px;">
+  <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;">
+    <img class="thumbnail" src="images/Cybersecurity.png" alt="CTI" style="width: auto; height: auto; max-width: 100%; max-height: 70%; cursor: pointer; border-radius: 8px;">
+  </div>
+  <div style="flex: 1; min-width: 250px; padding: 20px;">
+    <h2 style="font-weight: bold;">Building Cybersecurity Ontology for Understanding and Reasoning Adversary Tactics and Techniques</h2>
+    <p>Chiao-Cheng Huang, Pei-Yu Huang, Ying-Ren Kuo, Guo-Wei Wong, Yi-Ting Huang, Yeali S. Sun, and Meng Chang Chen</p>
+    <p>In 2022 IEEE International Conference on Big Data Workshop BDA4CID 2022</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10021134" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
+    </div>
+  </div>
+</div>
+
+
 <!-- Modal 放大圖片 -->
 <div id="modal" style="display: none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-color: white; z-index: 9999; justify-content: center; align-items: center; flex-direction: column;">
   <span id="modalClose" style="position: absolute; top: 20px; right: 30px; font-size: 36px; color: black; cursor: pointer;">&times;</span>
