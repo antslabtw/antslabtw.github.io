@@ -47,7 +47,7 @@ author_profile: true
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Open Source Intelligence for Malicious Behavior Discovery and Interpretation</h2>
-    <p>Yi-Ting Huang, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen.</p>
+    <p>Yi-Ting Huang, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen</p>
     <p>IEEE Transactions on Dependable and Secure Computing. 19(2), 776-789.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9566808" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
@@ -132,3 +132,24 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 });
 </script>
+
+<style>
+  .image-block {
+    width: 40%;
+    min-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .thumbnail {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 300px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  .thumbnail-apili {
+    max-height: 220px !important;
+  }
+</style>
