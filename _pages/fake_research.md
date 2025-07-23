@@ -112,7 +112,7 @@ author_profile: true
 </div>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px; min-height: 250px;">
   <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <img class="thumbnail" src="images/Cybersecurity.png" alt="CTI" style="width: auto; height: auto; max-width: 100%; max-height: 70%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/Cybersecurity.png" alt="CTI" style="width: auto; height: auto; max-width: 100%; max-height: 70%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Building Cybersecurity Ontology for Understanding and Reasoning Adversary Tactics and Techniques</h2>
