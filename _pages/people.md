@@ -22,8 +22,8 @@ author_profile: true
    <font color="#b29362"> &nbsp;黃意婷 Yi-Ting Huang</font><br>
    &nbsp;Ph.D., Information Management, National Taiwan University<br><br><br><br>
 
-<!-- Research Asistant -->
-<h1 style= "background:#efe8dc">&nbsp; Research Assitant</h1>
+<!-- Research Assistant -->
+<h1 style= "background:#efe8dc">&nbsp; Research Assistant</h1>
 <ul>
 
 </ul>
@@ -38,9 +38,7 @@ author_profile: true
 </ul>
 <!-- Student -->
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
-<div style="background:#f9f6f2; border: 1px solid #ddd0c0; border-radius: 12px; padding: 16px; margin-bottom: 24px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">
-  <h2 style="color:#8d6e48; margin-bottom: 10px; font-size: 20px;">Graduate Students</h2>
-  <ul style="list-style-type: none; padding-left: 10px; margin: 0;">
+  <ul>
   <li><font color="#b29362">&nbsp;&nbsp;林妍汝 Lin,&nbsp; Yen-Ru</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;陳怡安 Chen,&nbsp; Yi-An</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;楊明翊 Yang,&nbsp; Ming-Yi</font></li>
@@ -61,7 +59,5 @@ author_profile: true
   <li><font color="#b29362">&nbsp;&nbsp;梁凱鈞 Liang,&nbsp; Kai-Jun</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;劉冠廷 Liu,&nbsp; Guan-Ting</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;吳昱葶 Wu,&nbsp; Yu-Ting</font></li>
-
-
 </ul>
 
