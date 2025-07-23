@@ -8,7 +8,7 @@ author_profile: true
 <!-- 第一個區塊：MOOSE -->
 <div>
   <h1 style="color:#AB9278;">AES</h1>
-  <h5>Collaboration with <a href="https://homepage.iis.sinica.edu.tw/pages/mcc/index_en.html">Dr. Meng Chang Chen</a>, Research Center for Information Technology Innovation, Academia Sinica. </a></h5>
+  <h5>Collaboration with <a href="https://homepage.iis.sinica.edu.tw/pages/mcc/index_en.html">Dr. Meng Chang Chen</a>, Research Center for Information Technology Innovation, Academia Sinica.</h5>
 </div>
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
@@ -19,11 +19,17 @@ author_profile: true
     <p>Po-Kai Chen, Bo-Wei Tsai, Shao Kuan Wei, Chien-Yao Wang, Jia-Ching Wang, and Yi-Ting Huang</p>
     <p>To appear in Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
-      <a href="https://example.com/your-paper.pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
-      <a href="https://example.com/your-dataset" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://img.icons8.com/?size=100&id=RaqQIdZmC624&format=png&color=000000" alt="Dataset" width="24"></a>
+      <!-- PDF連結 -->
+      <a href="https://antslabtw.github.io/files/ACL2025_AES__MOOSE__camera_ready_.pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
+      <!-- 網頁連結一 -->
+      <a href="https://github.com/antslabtw/MOOSE-AES" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
+      <!-- 網頁連結二 -->
       <a href="https://antslabtw.github.io/MOOSE/" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
-      <a href="https://example.com/project-site" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="LINK"/></a>
+      <!-- YT連結 -->
+      <a href="https://youtu.be/6zLJOUHe5HI" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="LINK"/></a>
+      <!-- POSTER連結 -->
       <a href="/files/MOOSE_ACL25_POSTER_YT.pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=qD08hnhP3M8R&format=png&color=000000" alt="LINK"/></a>
+      <!-- PPT連結 -->
       <a href="/files/MOOSE_ACL25_slide_YT_v7 (2).pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=20832&format=png&color=000000" alt="LINK"/></a>
     </div>
   </div>
@@ -32,7 +38,7 @@ author_profile: true
 <!-- 第二個區塊：MAMBA -->
 <div>
   <h1 style="color:#AB9278;">Malware Analysis</h1>
-  <h5>Collaboration with <a href="https://homepage.iis.sinica.edu.tw/pages/mcc/index_en.html">Dr. Meng Chang Chen</a>, Research Center for Information Technology Innovation, Academia Sinica.</a></h5>
+  <h5>Collaboration with <a href="https://homepage.iis.sinica.edu.tw/pages/mcc/index_en.html">Dr. Meng Chang Chen</a>, Research Center for Information Technology Innovation, Academia Sinica.</h5>
 </div>
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
@@ -63,15 +69,34 @@ author_profile: true
   </div>
 </div>
 
-<!-- 第四個區塊：SAGA -->
+<div>
+  <h1 style="color:#AB9278;">Host-based Intrusion Detection</h1>
+</div>
+
+<!-- 第四個區塊：SFM -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="/images/SAGA.png" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="???" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">SAGA: Synthetic Audit Log Generation for APT Campaigns</h2>
     <p>Yi-Ting Huang, Ying-Ren Guo, Yu-Sheng Yang, Guo-Wei Wong, Yu-Zih Jheng, Yeali Sun, Jessemyn Modini, Timothy Lynar, Meng Chang Chen</p>
     <p>????</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
+      <a href="https://arxiv.org/pdf/2411.13138" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
+      <a href="https://saga-tw.github.io/dataset" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
+    </div>
+  </div>
+</div>
+
+<!-- 第五個區塊：SAGA -->
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
+  <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
+    <img class="thumbnail" src="images/SAGA.png" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+  </div>
+  <div style="flex: 1; min-width: 250px; padding: 20px;">
+    <h2 style="font-weight: bold;">SAGA: Synthetic Audit Log Generation for APT Campaigns</h2>
+    <p>Yi-Ting Huang, Ying-Ren Guo, Yu-Sheng Yang, Guo-Wei Wong, Yu-Zih Jheng, Yeali Sun, Jessemyn Modini, Timothy Lynar, Meng Chang Chen</p>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
       <a href="https://arxiv.org/pdf/2411.13138" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
       <a href="https://saga-tw.github.io/dataset" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
