@@ -10,8 +10,8 @@ author_profile: true
   <h1 style="color:#AB9278;">AES</h1>
   <h5>Collaboration with <a href="https://homepage.iis.sinica.edu.tw/pages/mcc/index_en.html">Dr. Meng Chang Chen</a>, Research Center for Information Technology Innovation, Academia Sinica.</h5>
 </div>
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
-  <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px; min-height: 250px;">
+  <div style="width: 40%; min-width: 300px; display: flex; justify-content: center; align-items: center;">
     <img class="thumbnail" src="/images/moose.png" alt="Moose Project"
      style="align-self: center; width: auto; height: auto; max-width: 100%; max-height: 300px; cursor: pointer; border-radius: 8px;">
   </div>
@@ -27,7 +27,7 @@ author_profile: true
       <!-- POSTER連結 -->
       <a href="/files/MOOSE_ACL25_POSTER_YT.pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=qD08hnhP3M8R&format=png&color=000000" alt="LINK"/></a>
       <!-- PPT連結 -->
-      <a href="/files/MOOSE_ACL25_slide_YT_v7 (2).pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=20832&format=png&color=000000" alt="LINK"/></a>
+      <a href="/files/MOOSE_ACL25_slide_YT_v7 (2).pdf" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/officexs/30/ppt.png" alt="PPT"/></a>
       <!-- 網頁連結一 -->
       <a href="https://github.com/antslabtw/MOOSE-AES" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
       <!-- 網頁連結二 -->
