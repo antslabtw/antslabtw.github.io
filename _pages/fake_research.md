@@ -59,7 +59,7 @@ author_profile: true
 <!-- 第三個區塊：APILI -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="/images/Malware_Analysis.png" alt="Malware Analysis" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/APILI.png" alt="Malware Analysis" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Attention-Based API Locating for Malware Techniques</h2>
@@ -76,15 +76,15 @@ author_profile: true
 <!-- 第四個區塊：SFM -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="???" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="???" alt="SFM" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
-    <h2 style="font-weight: bold;">SAGA: Synthetic Audit Log Generation for APT Campaigns</h2>
-    <p>Yi-Ting Huang, Ying-Ren Guo, Yu-Sheng Yang, Guo-Wei Wong, Yu-Zih Jheng, Yeali Sun, Jessemyn Modini, Timothy Lynar, Meng Chang Chen</p>
-    <p>????</p>
+    <h2 style="font-weight: bold;">A Cascade Approach for APT Campaign Attribution in System Event Logs: Technique Hunting and Subgraph Matching</h2>
+    <p>Yi-Ting Huang, Ying-Ren Guo, Guo-Wei Wong, and Meng Chang Chen</p>
+    <p>IEEE International Conference on Communications 2025</p>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
-      <a href="https://arxiv.org/pdf/2411.13138" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" width="24"></a>
-      <a href="https://saga-tw.github.io/dataset" target="_blank" style="background: #f4eeff; padding: 10px 16px; border-radius: 12px;"><img width="30" height="30" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/external-link-user-interface-wanicon-lineal-color-wanicon.png" alt="LINK"/></a>
+      <a href="https://arxiv.org/pdf/2410.22602" target="_blank"><img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" /></a>
+      <a href="https://antslabtw.github.io/files/[ICC]SFM_ythuang_20250609_final.pdf" target="_blank"><img width="30" height="30" src="https://img.icons8.com/officexs/30/ppt.png" alt="PPT"/></a>
     </div>
   </div>
 </div>
@@ -92,7 +92,7 @@ author_profile: true
 <!-- 第五個區塊：SAGA -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="images/SAGA.png" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/SAGA.png" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">SAGA: Synthetic Audit Log Generation for APT Campaigns</h2>
