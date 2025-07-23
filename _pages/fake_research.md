@@ -46,7 +46,7 @@ author_profile: true
     <img class="thumbnail" src="/images/Malware_Analysis.png" alt="Malware Analysis" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
-    <h2 style="font-weight: bold;">Open Source Intelligence for Malicious Behavior Discovery and Interpretation.</h2>
+    <h2 style="font-weight: bold;">Open Source Intelligence for Malicious Behavior Discovery and Interpretation</h2>
     <p>Yi-Ting Huang, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, & Meng Chang Chen.</p>
     <p>IEEE Transactions on Dependable and Secure Computing. 19(2), 776-789.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
@@ -60,7 +60,7 @@ author_profile: true
 <!-- 第三個區塊：APILI -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="/images/APILI.png" alt="Malware Analysis" style="width: auto; height: 70%; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/APILI.png" alt="Malware Analysis" style="width: auto; height: 70%; max-width: 100%; max-height: 70%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">Attention-Based API Locating for Malware Techniques</h2>
@@ -76,9 +76,6 @@ author_profile: true
 
 <!-- 第四個區塊：SFM -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
-  <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="???" alt="SFM" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
-  </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">A Cascade Approach for APT Campaign Attribution in System Event Logs: Technique Hunting and Subgraph Matching</h2>
     <p>Yi-Ting Huang, Ying-Ren Guo, Guo-Wei Wong, and Meng Chang Chen</p>
@@ -93,7 +90,7 @@ author_profile: true
 <!-- 第五個區塊：SAGA -->
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; background:#FDF8F5; padding: 20px; margin-bottom: 20px;">
   <div style="width: 40%; min-width: 300px; display: flex; align-items: center; justify-content: center;">
-    <img class="thumbnail" src="/images/SAGA.png" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 100%; cursor: pointer; border-radius: 8px;">
+    <img class="thumbnail" src="/images/SAGA.png" alt="SAGA" style="width: auto; height: auto; max-width: 100%; max-height: 70%; cursor: pointer; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px; padding: 20px;">
     <h2 style="font-weight: bold;">SAGA: Synthetic Audit Log Generation for APT Campaigns</h2>
