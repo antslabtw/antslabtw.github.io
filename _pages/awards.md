@@ -17,7 +17,7 @@ author_profile: true
     --card-border:#e5e7eb;
   }
 
-  /* ====== HERO SLIDER ====== */
+  /* ====== SLIDER ====== */
   .hero-slider{
     position:relative;
     width:100%;
@@ -140,20 +140,20 @@ author_profile: true
   }
 </style>
 
-<!-- ========== HERO SLIDER（把 src 換成你的圖） ========== -->
+<!-- ========== SLIDER ========== -->
 <div class="hero-slider" id="hero-slider" aria-label="Awards hero slider">
   <div class="hs-slide active" data-index="0">
-    <img src="/images/aes.png" alt="ACL 2025 acceptance">
+    <img src="/images/NTUST_bachlorcomp-1.png" alt="ACL 2025 acceptance">
     <div class="hs-caption">
-      <div class="hs-title">ACL 2025 Acceptance</div>
-      <div class="hs-sub">Mixture of Ordered Scoring Experts</div>
+      <div class="hs-title">電機系最佳專題競賽｜第五名</div>
+      <div class="hs-sub">113學年度｜指導：黃意婷｜專題生：陳柔尹、蔡宗嶧、廖冠語</div>
     </div>
   </div>
   <div class="hs-slide" data-index="1">
-    <img src="/images/aes.png" alt="ICC 2025 acceptance">
+    <img src="/images/NICS-1_tmp.jpg" alt="Honorable Mention — Cyber Range & Attack/Defense Scripts Challenge">
     <div class="hs-caption">
-      <div class="hs-title">ICC 2025 Acceptance</div>
-      <div class="hs-sub">APT Campaign Attribution in System Logs</div>
+      <div class="hs-title">資安演練場域與攻防腳本徵件｜佳作</div>
+      <div class="hs-sub">113年度｜指導：黃意婷｜學生：楊明翊、林妍汝、沈婉瑛、余仲恩、王新元</div>
     </div>
   </div>
 </div>
@@ -163,7 +163,13 @@ author_profile: true
 
   <!-- 2025 -->
   <details class="tl-year" open>
-    <summary>2025 <span class="meta">（共 4 條）</span></summary>
+    <summary>
+      <!-- 小箭頭 icon（可提示可展開/收起） -->
+      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path d="M6 6l8 4-8 4V6z"/>
+      </svg>
+      2025 
+    </summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -200,7 +206,12 @@ author_profile: true
 
   <!-- 2024 -->
   <details class="tl-year" open>
-    <summary>2024 <span class="meta">（共 3 條）</span></summary>
+    <summary>
+      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path d="M6 6l8 4-8 4V6z"/>
+      </svg>
+      2024 
+    </summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -231,7 +242,12 @@ author_profile: true
 
   <!-- 2023 -->
   <details class="tl-year" open>
-    <summary>2023 <span class="meta">（共 2 條）</span></summary>
+    <summary>
+      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path d="M6 6l8 4-8 4V6z"/>
+      </svg>
+      2023 
+    </summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -254,7 +270,12 @@ author_profile: true
 
   <!-- 2022 -->
   <details class="tl-year" open>
-    <summary>2022 <span class="meta">（共 2 條）</span></summary>
+    <summary>
+      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+        <path d="M6 6l8 4-8 4V6z"/>
+      </svg>
+      2022 
+    </summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -278,41 +299,56 @@ author_profile: true
 </div>
 
 <script>
-  // ===== Hero Slider (自動播放 + 點擊圓點跳轉) =====
+  // ===== Hero Slider：更健壯的自動播放（setTimeout 鏈結＋visibility 保護） =====
   (function(){
     const slider = document.getElementById('hero-slider');
     if(!slider) return;
     const slides = slider.querySelectorAll('.hs-slide');
     const dots = slider.querySelectorAll('.hs-dot');
+    const interval = parseInt(slider.getAttribute('data-interval') || '5000', 10);
     let idx = 0;
-    let timer = null;
+    let timerId = null;
 
-    function go(n){
+    function activate(n){
       slides[idx].classList.remove('active');
       dots[idx].classList.remove('active');
-      idx = n % slides.length;
+      idx = (n + slides.length) % slides.length;
       slides[idx].classList.add('active');
       dots[idx].classList.add('active');
     }
 
-    function start(){
-      stop();
-      timer = setInterval(()=> go((idx+1)%slides.length), 5000);
+    function next(){ activate(idx + 1); }
+
+    function schedule(){
+      clear();
+      // 若頁面不可見，先不排程，等回到可見時再啟動
+      if (document.hidden) return;
+      timerId = setTimeout(()=>{ next(); schedule(); }, interval);
     }
 
-    function stop(){
-      if(timer){ clearInterval(timer); timer = null; }
+    function clear(){
+      if (timerId){ clearTimeout(timerId); timerId = null; }
     }
 
+    // 點擊圓點
     dots.forEach(d=>{
       d.addEventListener('click', ()=>{
-        go(parseInt(d.dataset.go,10));
-        start();
+        activate(parseInt(d.dataset.go,10));
+        schedule();
       });
     });
 
-    slider.addEventListener('mouseenter', stop);
-    slider.addEventListener('mouseleave', start);
-    start();
+    // 滑鼠暫停 / 離開繼續
+    slider.addEventListener('mouseenter', clear);
+    slider.addEventListener('mouseleave', schedule);
+
+    // 切換分頁可見性時控制播放
+    document.addEventListener('visibilitychange', ()=>{
+      if (document.hidden) { clear(); }
+      else { schedule(); }
+    });
+
+    // 首次排程
+    schedule();
   })();
 </script>
