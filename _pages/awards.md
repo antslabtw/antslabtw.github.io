@@ -166,6 +166,13 @@ author_profile: true
       <div class="hs-sub">113年度｜指導：黃意婷｜學生：楊明翊、林妍汝、沈婉瑛、余仲恩、王新元</div>
     </div>
   </div>
+    <div class="hs-slide" data-index="2">
+    <img src="/images/TANET.png" alt="TANET 2024 最佳論文獎">
+    <div class="hs-caption">
+      <div class="hs-title">基於大型語言模型的資料擴增技術在網路威脅情資的攻擊手法分類研究｜TANET 2024 最佳論文獎</div>
+      <div class="hs-sub">113年｜指導：黃意婷｜學生：陳羿琪、陳怡安、李熹琳、黃意婷</div>
+    </div>
+  </div>
 
   <!-- 左右按鈕 -->
   <button class="hs-nav prev" type="button" aria-label="Previous slide">
@@ -301,16 +308,17 @@ author_profile: true
 <script>
 (function(){
   const slider = document.getElementById('hero-slider');
-  if(!slider) return;
+  if (!slider) return;
+
   const slides = slider.querySelectorAll('.hs-slide');
   const dotsWrap = document.getElementById('hs-dots');
   const interval = parseInt(slider.getAttribute('data-interval') || '5000', 10);
   let idx = 0;
   let timerId = null;
 
-  // 產生 dots
+  /* 動態產生 dots */
   if (dotsWrap) {
-    slides.forEach((_, i) => {
+    slides.forEach(function(_, i){
       const b = document.createElement('button');
       b.className = 'hs-dot' + (i === 0 ? ' active' : '');
       b.setAttribute('aria-label', 'Slide ' + (i+1));
@@ -321,16 +329,11 @@ author_profile: true
   let dots = dotsWrap ? dotsWrap.querySelectorAll('.hs-dot') : [];
 
   function activate(n){
-    const prev = idx;
     slides[idx].classList.remove('active');
     if (dots[idx]) dots[idx].classList.remove('active');
-
     idx = (n + slides.length) % slides.length;
-
     slides[idx].classList.add('active');
     if (dots[idx]) dots[idx].classList.add('active');
-
-    console.log('[activate] from', prev, 'to', idx);
   }
 
   function next(){ activate(idx + 1); }
@@ -339,40 +342,41 @@ author_profile: true
   function schedule(){
     clear();
     if (document.hidden) return;
-    timerId = setTimeout(()=>{ next(); schedule(); }, interval);
+    timerId = setTimeout(function(){ next(); schedule(); }, interval);
   }
   function clear(){
     if (timerId){ clearTimeout(timerId); timerId = null; }
   }
 
+  /* 事件委派：點擊 dots */
   if (dotsWrap) {
-    dotsWrap.addEventListener('click', (e)=>{
+    dotsWrap.addEventListener('click', function(e){
       const btn = e.target.closest('.hs-dot');
       if (!btn) return;
       const go = parseInt(btn.dataset.go, 10);
-      console.log('[dot click] go =', go);
       activate(go);
       schedule();
     });
   }
 
-  // 左右按鈕
+  /* 左右按鈕 */
   const btnPrev = slider.querySelector('.hs-nav.prev');
   const btnNext = slider.querySelector('.hs-nav.next');
-  if (btnPrev) btnPrev.addEventListener('click', ()=>{ console.log('[prev]'); prev(); schedule(); });
-  if (btnNext) btnNext.addEventListener('click', ()=>{ console.log('[next]'); next(); schedule(); });
+  if (btnPrev) btnPrev.addEventListener('click', function(){ prev(); schedule(); });
+  if (btnNext) btnNext.addEventListener('click', function(){ next(); schedule(); });
 
-  // 滑鼠暫停 / 離開繼續
-  slider.addEventListener('mouseenter', ()=>{ console.log('[pause]'); clear(); });
-  slider.addEventListener('mouseleave', ()=>{ console.log('[resume]'); schedule(); });
+  /* 滑鼠暫停 / 離開繼續 */
+  slider.addEventListener('mouseenter', clear);
+  slider.addEventListener('mouseleave', schedule);
 
-  document.addEventListener('visibilitychange', ()=>{
-    if (document.hidden) { console.log('[hidden] pause'); clear(); }
-    else { console.log('[visible] resume'); schedule(); }
+  /* 分頁可見性切換 */
+  document.addEventListener('visibilitychange', function(){
+    if (document.hidden) { clear(); }
+    else { schedule(); }
   });
 
-  console.log('[init] slides =', slides.length, 'dots =', dots.length);
   schedule();
 })();
 </script>
+
 
