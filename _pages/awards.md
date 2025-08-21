@@ -163,13 +163,7 @@ author_profile: true
 
   <!-- 2025 -->
   <details class="tl-year" open>
-    <summary>
-      <!-- 小箭頭 icon（可提示可展開/收起） -->
-      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-        <path d="M6 6l8 4-8 4V6z"/>
-      </svg>
-      2025 
-    </summary>
+    <summary>2025 <span class="meta">（共 4 條）</span></summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -206,12 +200,7 @@ author_profile: true
 
   <!-- 2024 -->
   <details class="tl-year" open>
-    <summary>
-      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-        <path d="M6 6l8 4-8 4V6z"/>
-      </svg>
-      2024 
-    </summary>
+    <summary>2024 <span class="meta">（共 3 條）</span></summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -242,12 +231,7 @@ author_profile: true
 
   <!-- 2023 -->
   <details class="tl-year" open>
-    <summary>
-      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-        <path d="M6 6l8 4-8 4V6z"/>
-      </svg>
-      2023 
-    </summary>
+    <summary>2023 <span class="meta">（共 2 條）</span></summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -270,12 +254,7 @@ author_profile: true
 
   <!-- 2022 -->
   <details class="tl-year" open>
-    <summary>
-      <svg class="chev" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-        <path d="M6 6l8 4-8 4V6z"/>
-      </svg>
-      2022 
-    </summary>
+    <summary>2022 <span class="meta">（共 2 條）</span></summary>
     <div class="tl-items">
 
       <div class="tl-item">
