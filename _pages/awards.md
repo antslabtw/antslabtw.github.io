@@ -20,7 +20,7 @@ author_profile: true
   .hero-slider{
     position:relative;
     width:100%;
-    height: min(55vh, 520px);
+    height: min(65vh, 680px);
     border-radius: 12px;
     overflow:hidden;
     box-shadow: 0 8px 24px rgba(0,0,0,.08);
@@ -298,33 +298,44 @@ author_profile: true
     const slider = document.getElementById('hero-slider');
     if(!slider) return;
     const slides = slider.querySelectorAll('.hs-slide');
-    const dots = slider.querySelectorAll('.hs-dot');
+    const dotsWrap = document.getElementById('hs-dots');
     const interval = parseInt(slider.getAttribute('data-interval') || '5000', 10);
     let idx = 0;
     let timerId = null;
 
+    // 動態產生 dots
+    if (dotsWrap) {
+      slides.forEach((_, i) => {
+        const b = document.createElement('button');
+        b.className = 'hs-dot' + (i === 0 ? ' active' : '');
+        b.setAttribute('aria-label', 'Slide ' + (i+1));
+        b.dataset.go = i;
+        dotsWrap.appendChild(b);
+      });
+    }
+    let dots = dotsWrap ? dotsWrap.querySelectorAll('.hs-dot') : [];
+
     function activate(n){
       slides[idx].classList.remove('active');
-      dots[idx].classList.remove('active');
+      if (dots[idx]) dots[idx].classList.remove('active');
       idx = (n + slides.length) % slides.length;
       slides[idx].classList.add('active');
-      dots[idx].classList.add('active');
+      if (dots[idx]) dots[idx].classList.add('active');
     }
 
     function next(){ activate(idx + 1); }
+    function prev(){ activate(idx - 1); }
 
     function schedule(){
       clear();
-      // 若頁面不可見，先不排程，等回到可見時再啟動
       if (document.hidden) return;
       timerId = setTimeout(()=>{ next(); schedule(); }, interval);
     }
-
     function clear(){
       if (timerId){ clearTimeout(timerId); timerId = null; }
     }
 
-    // 點擊圓點
+    // dots 點擊
     dots.forEach(d=>{
       d.addEventListener('click', ()=>{
         activate(parseInt(d.dataset.go,10));
@@ -332,17 +343,22 @@ author_profile: true
       });
     });
 
+    // 左右按鈕
+    const btnPrev = slider.querySelector('.hs-nav.prev');
+    const btnNext = slider.querySelector('.hs-nav.next');
+    if (btnPrev) btnPrev.addEventListener('click', ()=>{ prev(); schedule(); });
+    if (btnNext) btnNext.addEventListener('click', ()=>{ next(); schedule(); });
+
     // 滑鼠暫停 / 離開繼續
     slider.addEventListener('mouseenter', clear);
     slider.addEventListener('mouseleave', schedule);
 
-    // 切換分頁可見性時控制播放
+    // 分頁可見性切換
     document.addEventListener('visibilitychange', ()=>{
       if (document.hidden) { clear(); }
       else { schedule(); }
     });
 
-    // 首次排程
-    schedule();
+    schedule(); // 啟動
   })();
 </script>
