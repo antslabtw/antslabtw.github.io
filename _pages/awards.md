@@ -193,25 +193,18 @@ author_profile: true
   <details class="tl-year" open>
     <summary>2025</summary>
     <div class="tl-items">
-
+      
+      <div class="tl-item">
+        <div class="tl-date"><span class="date-badge">Aug. 2025</span></div>
+        <div class="tl-card">
+          Congratulations! <a href="https://www.ee.ntust.edu.tw/p/406-1027-138440,r490.php">黃意婷老師榮獲113學年度教學優良獎</a>
+        </div>
+      </div>
+      
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Jul. 2025</span></div>
         <div class="tl-card">
           Congratulations! 黃意婷老師指導專題生黃文良錄取大專學生研究計畫
-        </div>
-      </div>
-
-      <div class="tl-item">
-        <div class="tl-date"><span class="date-badge">Jun. 2025</span></div>
-        <div class="tl-card">
-          Congratulations! Our paper "<i>Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring</i>" has been accepted in ACL2025.
-        </div>
-      </div>
-
-      <div class="tl-item">
-        <div class="tl-date"><span class="date-badge">Jun. 2025</span></div>
-        <div class="tl-card">
-          Congratulations! Our paper "<i>A Cascade Approach for APT Campaign Attribution in System Event Logs: Technique Hunting and Subgraph Matching</i>" has been accepted in ICC2025.
         </div>
       </div>
 
@@ -239,6 +232,7 @@ author_profile: true
         </div>
       </div>
 
+<!--
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Oct. 2024</span></div>
         <div class="tl-card">
@@ -246,6 +240,7 @@ author_profile: true
           <a href="/images/TANET.png">Best Paper Awards of TANET 2024</a>
         </div>
       </div>
+-->
 
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Jul. 2024</span></div>
@@ -257,17 +252,11 @@ author_profile: true
     </div>
   </details>
 
-  <!-- 2023 -->
+  <!-- 2023
+  
   <details class="tl-year" open>
     <summary>2023</summary>
     <div class="tl-items">
-
-      <div class="tl-item">
-        <div class="tl-date"><span class="date-badge">May 2023</span></div>
-        <div class="tl-card">
-          Prof. Yi-Ting Huang will give a talk at Indo-Taiwan Workshop in Jammu, India. Come to say hi!
-        </div>
-      </div>
 
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Jan. 2023</span></div>
@@ -279,6 +268,8 @@ author_profile: true
 
     </div>
   </details>
+  
+  -->
 
   <!-- 2022 -->
   <details class="tl-year" open>
@@ -289,14 +280,6 @@ author_profile: true
         <div class="tl-date"><span class="date-badge">Dec. 2022</span></div>
         <div class="tl-card">
           Congratulations! 黃意婷老師指導碩士生陳羿琪錄取台電公司111學年度研究所獎學金甄選
-        </div>
-      </div>
-
-      <div class="tl-item">
-        <div class="tl-date"><span class="date-badge">Sep. 2022</span></div>
-        <div class="tl-card">
-          Prof. Yi-Ting Huang will give a talk at 
-          <a href="https://cyber.ithome.com.tw/2022/speaker-page/473" target="_blank" rel="noopener">CYBERSEC2022</a>. Come to say hi!
         </div>
       </div>
 
