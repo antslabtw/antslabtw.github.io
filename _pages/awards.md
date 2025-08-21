@@ -36,6 +36,11 @@ author_profile: true
   .hs-slide img{
     width:100%; height:100%; object-fit:cover; display:block;
   }
+  .hs-slide{ z-index: 0; }    
+  .hs-caption{ z-index: 1; }     
+  .hs-nav{ z-index: 3; }
+  .hs-dots{ z-index: 4; }  
+
   .hs-caption{
     position:absolute; left:0; right:0; bottom:0;
     padding: .9rem 1.1rem;
@@ -294,71 +299,80 @@ author_profile: true
 </div>
 
 <script>
-  (function(){
-    const slider = document.getElementById('hero-slider');
-    if(!slider) return;
-    const slides = slider.querySelectorAll('.hs-slide');
-    const dotsWrap = document.getElementById('hs-dots');
-    const interval = parseInt(slider.getAttribute('data-interval') || '5000', 10);
-    let idx = 0;
-    let timerId = null;
+(function(){
+  const slider = document.getElementById('hero-slider');
+  if(!slider) return;
+  const slides = slider.querySelectorAll('.hs-slide');
+  const dotsWrap = document.getElementById('hs-dots');
+  const interval = parseInt(slider.getAttribute('data-interval') || '5000', 10);
+  let idx = 0;
+  let timerId = null;
 
-    // 動態產生 dots
-    if (dotsWrap) {
-      slides.forEach((_, i) => {
-        const b = document.createElement('button');
-        b.className = 'hs-dot' + (i === 0 ? ' active' : '');
-        b.setAttribute('aria-label', 'Slide ' + (i+1));
-        b.dataset.go = i;
-        dotsWrap.appendChild(b);
-      });
-    }
-    let dots = dotsWrap ? dotsWrap.querySelectorAll('.hs-dot') : [];
-
-    function activate(n){
-      slides[idx].classList.remove('active');
-      if (dots[idx]) dots[idx].classList.remove('active');
-      idx = (n + slides.length) % slides.length;
-      slides[idx].classList.add('active');
-      if (dots[idx]) dots[idx].classList.add('active');
-    }
-
-    function next(){ activate(idx + 1); }
-    function prev(){ activate(idx - 1); }
-
-    function schedule(){
-      clear();
-      if (document.hidden) return;
-      timerId = setTimeout(()=>{ next(); schedule(); }, interval);
-    }
-    function clear(){
-      if (timerId){ clearTimeout(timerId); timerId = null; }
-    }
-
-    // dots 點擊
-    dots.forEach(d=>{
-      d.addEventListener('click', ()=>{
-        activate(parseInt(d.dataset.go,10));
-        schedule();
-      });
+  // 產生 dots
+  if (dotsWrap) {
+    slides.forEach((_, i) => {
+      const b = document.createElement('button');
+      b.className = 'hs-dot' + (i === 0 ? ' active' : '');
+      b.setAttribute('aria-label', 'Slide ' + (i+1));
+      b.dataset.go = i;
+      dotsWrap.appendChild(b);
     });
+  }
+  let dots = dotsWrap ? dotsWrap.querySelectorAll('.hs-dot') : [];
 
-    // 左右按鈕
-    const btnPrev = slider.querySelector('.hs-nav.prev');
-    const btnNext = slider.querySelector('.hs-nav.next');
-    if (btnPrev) btnPrev.addEventListener('click', ()=>{ prev(); schedule(); });
-    if (btnNext) btnNext.addEventListener('click', ()=>{ next(); schedule(); });
+  function activate(n){
+    const prev = idx;
+    slides[idx].classList.remove('active');
+    if (dots[idx]) dots[idx].classList.remove('active');
 
-    // 滑鼠暫停 / 離開繼續
-    slider.addEventListener('mouseenter', clear);
-    slider.addEventListener('mouseleave', schedule);
+    idx = (n + slides.length) % slides.length;
 
-    // 分頁可見性切換
-    document.addEventListener('visibilitychange', ()=>{
-      if (document.hidden) { clear(); }
-      else { schedule(); }
+    slides[idx].classList.add('active');
+    if (dots[idx]) dots[idx].classList.add('active');
+
+    console.log('[activate] from', prev, 'to', idx);
+  }
+
+  function next(){ activate(idx + 1); }
+  function prev(){ activate(idx - 1); }
+
+  function schedule(){
+    clear();
+    if (document.hidden) return;
+    timerId = setTimeout(()=>{ next(); schedule(); }, interval);
+  }
+  function clear(){
+    if (timerId){ clearTimeout(timerId); timerId = null; }
+  }
+
+  if (dotsWrap) {
+    dotsWrap.addEventListener('click', (e)=>{
+      const btn = e.target.closest('.hs-dot');
+      if (!btn) return;
+      const go = parseInt(btn.dataset.go, 10);
+      console.log('[dot click] go =', go);
+      activate(go);
+      schedule();
     });
+  }
 
-    schedule(); // 啟動
-  })();
+  // 左右按鈕
+  const btnPrev = slider.querySelector('.hs-nav.prev');
+  const btnNext = slider.querySelector('.hs-nav.next');
+  if (btnPrev) btnPrev.addEventListener('click', ()=>{ console.log('[prev]'); prev(); schedule(); });
+  if (btnNext) btnNext.addEventListener('click', ()=>{ console.log('[next]'); next(); schedule(); });
+
+  // 滑鼠暫停 / 離開繼續
+  slider.addEventListener('mouseenter', ()=>{ console.log('[pause]'); clear(); });
+  slider.addEventListener('mouseleave', ()=>{ console.log('[resume]'); schedule(); });
+
+  document.addEventListener('visibilitychange', ()=>{
+    if (document.hidden) { console.log('[hidden] pause'); clear(); }
+    else { console.log('[visible] resume'); schedule(); }
+  });
+
+  console.log('[init] slides =', slides.length, 'dots =', dots.length);
+  schedule();
+})();
 </script>
+
