@@ -5,7 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-<!-- 留這一行空白，避免 <style> 被當成程式碼 -->
 
 <style>
   :root{
@@ -31,8 +30,9 @@ author_profile: true
   .hs-slide{
     position:absolute; inset:0;
     opacity:0; transition:opacity .6s ease;
+    display:none; /* 非 active 不顯示，避免重疊 */
   }
-  .hs-slide.active{ opacity:1; }
+  .hs-slide.active{ opacity:1; display:block; }
   .hs-slide img{
     width:100%; height:100%; object-fit:cover; display:block;
   }
@@ -47,7 +47,7 @@ author_profile: true
 
   .hs-dots{
     position:absolute; bottom:10px; left:50%; transform:translateX(-50%);
-    display:flex; gap:.4rem; align-items:center;
+    display:flex; gap:.4rem; align-items:center; z-index:2;
   }
   .hs-dot{
     width:10px; height:10px; border-radius:9999px;
@@ -56,22 +56,32 @@ author_profile: true
   }
   .hs-dot.active{ background:#fff; }
 
+  .hs-nav{
+    position:absolute; top:50%; transform:translateY(-50%);
+    width:44px; height:44px; border-radius:50%;
+    border:none; background:rgba(0,0,0,.35); color:#fff;
+    display:flex; align-items:center; justify-content:center;
+    cursor:pointer; z-index:2;
+  }
+  .hs-nav:hover{ background:rgba(0,0,0,.5); }
+  .hs-nav svg{ width:20px; height:20px; }
+  .hs-nav.prev{ left:10px; }
+  .hs-nav.next{ right:10px; }
+
   /* ====== TIMELINE ====== */
   .timeline{
     position:relative;
     padding-left:0;
     margin-top: 1.5rem;
   }
-  /* 中央垂直線（在日期與內容之間） */
   .timeline::before{
     content:"";
     position:absolute;
-    left: 160px; /* 與日期欄寬對齊 */
+    left: 160px;
     top:0; bottom:0;
     width:2px; background: var(--line);
   }
 
-  /* 年份收合區塊 */
   .tl-year{
     margin: 1rem 0 1.2rem 0;
     border:1px solid var(--card-border);
@@ -84,7 +94,6 @@ author_profile: true
     padding: .8rem 1rem;
     font-weight:700; color:var(--text);
     background:#f9fafb;
-    position:relative;
   }
   .tl-year summary::-webkit-details-marker{ display:none; }
   .tl-year summary .meta{
@@ -92,7 +101,6 @@ author_profile: true
   }
   .tl-year[open] summary{ border-bottom:1px solid var(--card-border); }
 
-  /* 條目 */
   .tl-items{ padding: .5rem .75rem 1rem .75rem; }
   .tl-item{
     position:relative;
@@ -101,7 +109,6 @@ author_profile: true
   }
   .tl-item:not(:last-child){ border-bottom:1px dashed var(--line); }
 
-  /* 節點（圓點） */
   .tl-item::before{
     content:"";
     position:absolute; left: 160px; top: 28px;
@@ -110,7 +117,6 @@ author_profile: true
     background: var(--green); box-shadow: 0 0 0 3px #e8f7ec;
   }
 
-  /* 日期徽章 */
   .tl-date{
     text-align:right; padding-right:18px;
     color:var(--muted);
@@ -121,7 +127,6 @@ author_profile: true
     background: var(--green); color:#fff; font-weight:700; font-size:12px;
   }
 
-  /* 內容卡片 */
   .tl-card{
     background: var(--card-bg);
     border:1px solid var(--card-border);
@@ -131,7 +136,6 @@ author_profile: true
   .tl-card a{ color:#0ea5e9; text-decoration:none; }
   .tl-card a:hover{ text-decoration:underline; }
 
-  /* 行動版調整 */
   @media (max-width: 720px){
     .timeline::before{ display:none; }
     .tl-item{ grid-template-columns: 1fr; }
@@ -141,21 +145,33 @@ author_profile: true
 </style>
 
 <!-- ========== SLIDER ========== -->
-<div class="hero-slider" id="hero-slider" aria-label="Awards hero slider">
+<div class="hero-slider" id="hero-slider" aria-label="Awards hero slider" data-interval="5000">
+  <!-- slides -->
   <div class="hs-slide active" data-index="0">
-    <img src="/images/NTUST_bachlorcomp-1.png" alt="ACL 2025 acceptance">
+    <img src="/images/NTUST_bachlorcomp-1.png" alt="113學年度電機工程系最佳專題競賽 第五名">
     <div class="hs-caption">
       <div class="hs-title">電機系最佳專題競賽｜第五名</div>
       <div class="hs-sub">113學年度｜指導：黃意婷｜專題生：陳柔尹、蔡宗嶧、廖冠語</div>
     </div>
   </div>
   <div class="hs-slide" data-index="1">
-    <img src="/images/NICS-1_tmp.jpg" alt="Honorable Mention — Cyber Range & Attack/Defense Scripts Challenge">
+    <img src="/images/NICS-1_tmp.jpg" alt="資安演練場域與攻防腳本徵件 佳作">
     <div class="hs-caption">
       <div class="hs-title">資安演練場域與攻防腳本徵件｜佳作</div>
       <div class="hs-sub">113年度｜指導：黃意婷｜學生：楊明翊、林妍汝、沈婉瑛、余仲恩、王新元</div>
     </div>
   </div>
+
+  <!-- 左右按鈕 -->
+  <button class="hs-nav prev" type="button" aria-label="Previous slide">
+    <svg viewBox="0 0 20 20" fill="currentColor"><path d="M12.5 4l-6 6 6 6"/></svg>
+  </button>
+  <button class="hs-nav next" type="button" aria-label="Next slide">
+    <svg viewBox="0 0 20 20" fill="currentColor"><path d="M7.5 4l6 6-6 6"/></svg>
+  </button>
+
+  <!-- dots（JS 會自動產生） -->
+  <div class="hs-dots" id="hs-dots" role="tablist" aria-label="Slider dots"></div>
 </div>
 
 <!-- ========== TIMELINE（年份可收合，預設全展開） ========== -->
@@ -163,7 +179,7 @@ author_profile: true
 
   <!-- 2025 -->
   <details class="tl-year" open>
-    <summary>2025 <span class="meta">（共 4 條）</span></summary>
+    <summary>2025</summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -200,7 +216,7 @@ author_profile: true
 
   <!-- 2024 -->
   <details class="tl-year" open>
-    <summary>2024 <span class="meta">（共 3 條）</span></summary>
+    <summary>2024</summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -231,7 +247,7 @@ author_profile: true
 
   <!-- 2023 -->
   <details class="tl-year" open>
-    <summary>2023 <span class="meta">（共 2 條）</span></summary>
+    <summary>2023</summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -254,7 +270,7 @@ author_profile: true
 
   <!-- 2022 -->
   <details class="tl-year" open>
-    <summary>2022 <span class="meta">（共 2 條）</span></summary>
+    <summary>2022</summary>
     <div class="tl-items">
 
       <div class="tl-item">
@@ -278,7 +294,6 @@ author_profile: true
 </div>
 
 <script>
-  // ===== Hero Slider：更健壯的自動播放（setTimeout 鏈結＋visibility 保護） =====
   (function(){
     const slider = document.getElementById('hero-slider');
     if(!slider) return;
