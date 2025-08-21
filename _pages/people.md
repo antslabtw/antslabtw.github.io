@@ -48,7 +48,8 @@ author_profile: true
     <li><font color="#b29362">&nbsp;&nbsp;王新元 Wang,&nbsp; Xin-Yuan</font></li>
     <li><font color="#b29362">&nbsp;&nbsp;余仲恩 Yu,&nbsp; Chung-En</font></li>
     <li><font color="#b29362">&nbsp;&nbsp;沈婉瑛 Shen,&nbsp; Wan-Ying</font></li>
-    <li><font color="#b29362">&nbsp;&nbsp;楊晴安 Yang,&nbsp; Ching-An</font></li>
+    <li><font color="#b29362">&nbsp;&nbsp;楊晴安 Yang,&nbsp; Cing-An</font></li>
+    <li><font color="#b29362">&nbsp;&nbsp;張惟凱 CHANG,&nbsp; WEI-KAI</font></li>
   </ul>
 <h3 style="color:#8d6e48; margin-top: 20px;">Undergraduate Students</h3>
 <ul>
