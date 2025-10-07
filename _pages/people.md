@@ -50,6 +50,7 @@ author_profile: true
     <li><font color="#b29362">&nbsp;&nbsp;沈婉瑛 Shen,&nbsp; Wan-Ying</font></li>
     <li><font color="#b29362">&nbsp;&nbsp;楊晴安 Yang,&nbsp; Cing-An</font></li>
     <li><font color="#b29362">&nbsp;&nbsp;張惟凱 CHANG,&nbsp; WEI-KAI</font></li>
+    <li><font color="#b29362">&nbsp;&nbsp;洪粲鈞 HUNG,&nbsp; TSAN-CHUN</font></li>
   </ul>
 <h3 style="color:#8d6e48; margin-top: 20px;">Undergraduate Students</h3>
 <ul>
