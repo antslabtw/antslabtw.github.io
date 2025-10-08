@@ -24,8 +24,8 @@ author_profile: true
 9. Jie Chi Yang, **Yi-Ting Huang**, Chi Cheng Tsai, Ching I Chung & Yu Chieh Wu. (2009). An Automatic Multimedia Content Summarization System for Video Recommendation. Journal of Educational Technology & Society, 12(1), 49-61. **[IF = 3.522]** <a href="https://coralythuang.github.io/files/8_2009_ETS.pdf" target="_blank"><img src="https://img.icons8.com/plasticine/32/pdf.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" /></a>
 
 ### Conference
-1.   Poster: LogCraft: Crafting CVE-Aware Synthetic Worlds (Logs). Kai-Xian Wong, Chan-Jien Tan, **Yi-Ting Huang**, Ying-Ren Guo, Yu-Zih Jheng, Guo-Wei Wong, and Meng Chang Chen.
-2.   Poster: When Logs Misbehave: Retrieving Known APTs from Noisy Graphs. Guo-Wei Wong, **Yi-Ting Huang**, Ying-Ren Guo, Ming-Chuan Yang, Shou-De Lin, Wang-Chien Lee , Meng Chang Chen.
+1.   Poster: LogCraft: Crafting CVE-Aware Synthetic Worlds (Logs). Kai-Xian Wong, Chan-Jien Tan, **Yi-Ting Huang**, Ying-Ren Guo, Yu-Zih Jheng, Guo-Wei Wong, and Meng Chang Chen.The ACM Conference on Computer and Communications Security (CCS).
+2.   Poster: When Logs Misbehave: Retrieving Known APTs from Noisy Graphs. Guo-Wei Wong, **Yi-Ting Huang**, Ying-Ren Guo, Ming-Chuan Yang, Shou-De Lin, Wang-Chien Lee , Meng Chang Chen.The ACM Conference on Computer and Communications Security (CCS).
 3.   Po-Kai Chen, Bo-Wei Tsai, Shao Kuan Wei, Chien-Yao Wang, Jia-Ching Wang, and **Yi-Ting Huang**. Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring. To appear in Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), 2025.
 <a href="https://antslabtw.github.io/files/ACL2025_AES__MOOSE__camera_ready_.pdf" target="_blank">
 <img src="https://img.icons8.com/plasticine/32/pdf.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" /></a>
