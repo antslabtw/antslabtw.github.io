@@ -173,7 +173,6 @@ author_profile: true
       <div class="hs-sub">113年度｜指導：黃意婷｜學生：楊明翊、林妍汝、沈婉瑛、余仲恩、王新元</div>
     </div>
   </div>
-  </div>
 
   <!-- 左右按鈕 -->
   <button class="hs-nav prev" type="button" aria-label="Previous slide">
