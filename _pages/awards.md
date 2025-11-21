@@ -152,26 +152,26 @@ author_profile: true
 <!-- ========== SLIDER ========== -->
 <div class="hero-slider" id="hero-slider" aria-label="Awards hero slider" data-interval="5000">
   <!-- slides -->
-  <div class="hs-slide active" data-index="0">
+  <div class="hs-slide" data-index="0">
+    <img src="/images/TANET_2025_excellent_paper.pdf" alt="TANET 2025 優秀論文獎">
+    <div class="hs-caption">
+      <div class="hs-title">視覺化系統事件日誌攻擊調查｜TANET 2025 優秀論文獎</div>
+      <div class="hs-sub">114年｜指導：黃意婷｜學生：楊明翊</div>
+  </div>
+  <div class="hs-slide active" data-index="1">
     <img src="/images/NTUST_bachlorcomp-1.png" alt="113學年度電機工程系最佳專題競賽 第五名">
     <div class="hs-caption">
       <div class="hs-title">電機系最佳專題競賽｜第五名</div>
       <div class="hs-sub">113學年度｜指導：黃意婷｜專題生：陳柔尹、蔡宗嶧、廖冠語</div>
     </div>
   </div>
-  <div class="hs-slide" data-index="1">
+  <div class="hs-slide" data-index="2">
     <img src="/images/NICS-1_tmp.jpg" alt="資安演練場域與攻防腳本徵件 佳作">
     <div class="hs-caption">
       <div class="hs-title">資安演練場域與攻防腳本徵件｜佳作</div>
       <div class="hs-sub">113年度｜指導：黃意婷｜學生：楊明翊、林妍汝、沈婉瑛、余仲恩、王新元</div>
     </div>
   </div>
-    <div class="hs-slide" data-index="2">
-    <img src="/images/TANET.png" alt="TANET 2024 最佳論文獎">
-    <div class="hs-caption">
-      <div class="hs-title">基於大型語言模型的資料擴增技術在網路威脅情資的攻擊手法分類研究｜TANET 2024 最佳論文獎</div>
-      <div class="hs-sub">113年｜指導：黃意婷｜學生：陳羿琪、陳怡安、李熹琳、黃意婷</div>
-    </div>
   </div>
 
   <!-- 左右按鈕 -->
@@ -193,7 +193,7 @@ author_profile: true
   <details class="tl-year" open>
     <summary>2025</summary>
     <div class="tl-items">
-      
+  
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Aug. 2025</span></div>
         <div class="tl-card">
