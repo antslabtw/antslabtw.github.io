@@ -153,10 +153,11 @@ author_profile: true
 <div class="hero-slider" id="hero-slider" aria-label="Awards hero slider" data-interval="5000">
   <!-- slides -->
   <div class="hs-slide" data-index="0">
-    <img src="/images/TANET_2025_excellent_paper.pdf" alt="TANET 2025 優秀論文獎">
+    <img src="/images/TANET_2025_excellent_paper_page.jpg" alt="TANET 2025 優秀論文獎">
     <div class="hs-caption">
       <div class="hs-title">視覺化系統事件日誌攻擊調查｜TANET 2025 優秀論文獎</div>
       <div class="hs-sub">114年｜指導：黃意婷｜學生：楊明翊</div>
+    </div>
   </div>
   <div class="hs-slide active" data-index="1">
     <img src="/images/NTUST_bachlorcomp-1.png" alt="113學年度電機工程系最佳專題競賽 第五名">
