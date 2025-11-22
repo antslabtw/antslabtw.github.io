@@ -63,6 +63,6 @@ author_profile: true
 8. Chia-Lin Chen, Pei-Yu Huang, **Yi-Ting Huang** & Chun Lin. (2019). Approach to Predicting News – A Precise Multi-LSTM Network With BERT. In Proceedings of the 25th International Conference on Information Management & Practice (IMP2019), 112. <a href="https://arxiv.org/pdf/2204.12093" target="_blank"><img src="https://img.icons8.com/plasticine/32/pdf.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" /></a>
 9. Ya-Min Tseng, **Yi-Ting Huang**, Meng Chang Chen & Yeali S. Sun. (2014). Generating Comprehension Questions Using Paraphrase. In Proceedings of the 19th Conference on Technologies and Applications of Artificial Intelligence (TAAI 2014), 310-321. <a href="/files/GeneratingComprehension.pdf" target="_blank"><img src="https://img.icons8.com/plasticine/32/pdf.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" /></a>
 
-### Manuscript
+### arXiv
 1. **Yi-Ting Huang**, Ying-Ren Guo, Yu-Sheng Yang, Guo-Wei Wong, Yu-Zih Jheng, Yeali Sun, Jessemyn Modini, Timothy Lynar, Meng Chang Chen (2024). SAGA: Synthetic Audit Log Generation for APT Campaigns. arXiv preprint arXiv:2411.13138.<a href="https://arxiv.org/pdf/2411.13138" target="_blank"><img src="https://img.icons8.com/plasticine/32/pdf.png" alt="PDF" style="vertical-align:middle; margin-left: 5px;" /></a><a href="https://saga-tw.github.io/dataset/" target="_blank"><img width="30" height="30" src="/images/demo-smile-icon.png" alt="LINK"/></a>
 
