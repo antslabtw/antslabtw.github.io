@@ -193,7 +193,14 @@ author_profile: true
   <details class="tl-year" open>
     <summary>2025</summary>
     <div class="tl-items">
-  
+
+      <div class="tl-item">
+        <div class="tl-date"><span class="date-badge">Oct. 2025</span></div>
+        <div class="tl-card">
+          Congratulations! 黃意婷老師指導碩士生楊明翊榮獲<a href="/images/TANET_2025_excellent_paper.pdf"> TANET 2025 臺灣網際網路研討會 優秀論文獎 </a>
+        </div>
+      </div>
+      
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Aug. 2025</span></div>
         <div class="tl-card">
@@ -230,9 +237,9 @@ author_profile: true
           黃意婷老師指導專題生陳柔尹、蔡宗嶧、廖冠語榮獲 
           <a href="/images/NTUST_bachlorcomp.pdf">113學年度電機工程系最佳專題競賽</a>第五名
         </div>
+        
       </div>
 
-<!--
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Oct. 2024</span></div>
         <div class="tl-card">
@@ -240,7 +247,6 @@ author_profile: true
           <a href="/images/TANET.png">Best Paper Awards of TANET 2024</a>
         </div>
       </div>
--->
 
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Jul. 2024</span></div>
