@@ -21,7 +21,7 @@ redirect_from:
 
 # What's News!
 <ul>
-    <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Dec. 2025</font></span> Congratulations! 黃意婷老師指導專題生陳敬橋、黃文良、胡承學榮獲114學年度電機工程系最佳專題競賽</a>第一名</li>
+    <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Dec. 2025</font></span> Congratulations! 黃意婷老師指導專題生陳敬橋、黃文良、胡承學榮獲114學年度電機工程系最佳專題競賽第一名</li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Dec. 2025</font></span> Congratulations! Our paper "SAGA: Synthetic Audit Log Generation for APT Campaigns" has been accepted in IEEE TDSC.</li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Dec. 2025</font></span> Congratulations! Our two papers have been accepted in TAAI 2025.</li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Oct. 2025</font></span> Congratulations! Our two posters have been accepted in ACM CCS2025.</li>
