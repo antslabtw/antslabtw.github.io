@@ -193,7 +193,13 @@ author_profile: true
   <details class="tl-year" open>
     <summary>2025</summary>
     <div class="tl-items">
-
+      <div class="tl-item">
+        <div class="tl-date"><span class="date-badge">Dec. 2025</span></div>
+        <div class="tl-card">
+          Congratulations! 黃意婷老師指導專題生陳敬橋、黃文良、胡承學榮獲114學年度電機工程系最佳專題競賽第一名 </a>
+        </div>
+      </div>
+      
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Oct. 2025</span></div>
         <div class="tl-card">
