@@ -182,13 +182,31 @@ author_profile: true
     <svg viewBox="0 0 20 20" fill="currentColor"><path d="M7.5 4l6 6-6 6"/></svg>
   </button>
 
-  <!-- dots（JS 會自動產生） -->
   <div class="hs-dots" id="hs-dots" role="tablist" aria-label="Slider dots"></div>
 </div>
 
 <!-- ========== TIMELINE（年份可收合，預設全展開） ========== -->
 <div class="timeline">
-
+  <!-- 2026 -->
+  <details class="tl-year" open>
+    <summary>2026</summary>
+    <div class="tl-items">
+      <div class="tl-item">
+        <div class="tl-date"><span class="date-badge">May. 2026</span></div>
+        <div class="tl-card">
+          Congratulations! 黃意婷教授指導專題生陳敬橋、黃文良、胡承學榮獲2026年全國技專校院學生實務專題製作競賽成果展佳作
+        </div>
+      </div>
+      
+      <div class="tl-item">
+        <div class="tl-date"><span class="date-badge">Jan. 2026</span></div>
+        <div class="tl-card">
+          Congratulations! 黃意婷教授指導執行之「開發永續性Windows惡意程式行為偵測：行為混淆攻擊與模型韌性加強」計畫獲選為資訊工程學門114年度優良計畫執行成果
+        </div>
+      </div>
+    </div>
+  </details>
+  
   <!-- 2025 -->
   <details class="tl-year" open>
     <summary>2025</summary>
