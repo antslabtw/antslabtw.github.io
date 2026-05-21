@@ -194,7 +194,7 @@ author_profile: true
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">May. 2026</span></div>
         <div class="tl-card">
-          <a href="/files/賴溪松教授論文獎碩士組_115.pdf">黃意婷教授指導林妍汝同學榮獲115年度中華民國資訊安全學會賴溪松教授論文獎碩士組佳作！</a>
+          黃意婷教授指導林妍汝同學<a href="/files/賴溪松教授論文獎碩士組_115.pdf">榮獲115年度中華民國資訊安全學會賴溪松教授論文獎碩士組佳作</a>
         </div>
       </div>
     <div class="tl-items">
@@ -208,7 +208,7 @@ author_profile: true
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Jan. 2026</span></div>
         <div class="tl-card">
-          <a href="/files/nstc_award.pdf">黃意婷教授指導執行之「開發永續性Windows惡意程式行為偵測：行為混淆攻擊與模型韌性加強」計畫獲選為資訊工程學門114年度優良計畫執行成果</a>
+          黃意婷教授指導執行之「開發永續性Windows惡意程式行為偵測：行為混淆攻擊與模型韌性加強」計畫<a href="/files/nstc_award.pdf">獲選為資訊工程學門114年度優良計畫執行成果</a>
         </div>
       </div>
     </div>
@@ -221,7 +221,7 @@ author_profile: true
       <div class="tl-item">
         <div class="tl-date"><span class="date-badge">Dec. 2025</span></div>
         <div class="tl-card">
-          Congratulations! <a href="/files/最佳專題獎_115.pdf">黃意婷老師指導專題生陳敬橋、黃文良、胡承學榮獲114學年度電機工程系最佳專題競賽第一名</a>
+          Congratulations! 黃意婷老師指導專題生陳敬橋、黃文良、胡承學<a href="/files/最佳專題獎_115.pdf">榮獲114學年度電機工程系最佳專題競賽第一名</a>
         </div>
       </div>
       
