@@ -36,6 +36,7 @@ author_profile: true
   <li><font color="#b29362">&nbsp;&nbsp;邵冠崴 Shao,&nbsp; Guan-Wei</font><br></li>
   <li><font color="#b29362">&nbsp;&nbsp;李熹琳 Li,&nbsp; Si-Lin</font><br></li>
   <li><font color="#b29362">&nbsp;&nbsp;楊明翊 Yang,&nbsp; Ming-Yi</font><br></li>
+  <li><font color="#b29362">&nbsp;&nbsp;林妍汝 Lin,&nbsp; Yen-Ru</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;蔡宗嶧 Tsai,&nbsp; Zong-Yi</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;廖冠語 Liao,&nbsp; Guan-Yu</font></li>
   <li><font color="#b29362">&nbsp;&nbsp;陳柔尹 Chen,&nbsp; Jou-Yin</font></li>
@@ -44,7 +45,6 @@ author_profile: true
 <h1 style= "background:#efe8dc">&nbsp; Student</h1>
 <h3 style="color:#8d6e48; margin-top: 20px;">Graduate Students</h3>
   <ul>
-    <li><font color="#b29362">&nbsp;&nbsp;林妍汝 Lin,&nbsp; Yen-Ru</font></li>
     <li><font color="#b29362">&nbsp;&nbsp;陳怡安 Chen,&nbsp; Yi-An</font></li>
     <li><font color="#b29362">&nbsp;&nbsp;周伯翰 Chou,&nbsp; Po-Han</font></li>
     <li><font color="#b29362">&nbsp;&nbsp;吳崇綸 Wu,&nbsp; Chun-Lun</font></li>
