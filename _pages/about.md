@@ -21,6 +21,7 @@ redirect_from:
 
 # What's News!
 <ul>
+    <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Oct. 2026</font></span> We are excited to host the <a href="https://cybersecai2026.github.io/">2026 Taiwan–France Joint Research Workshop on Cybersecurity & AI!</a> Join us!</li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">May. 2026</font></span> Congratulations! 黃意婷教授指導林妍汝同學<a href="/files/賴溪松教授論文獎碩士組_115.pdf">榮獲115年度中華民國資訊安全學會賴溪松教授論文獎碩士組佳作！</a></li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">May. 2026</font></span> Congratulations! 黃意婷老師指導專題生陳敬橋、黃文良、胡承學榮獲2026年全國技專校院學生實務專題製作競賽成果展佳作</li>
     <li> <span style="border-width: 3px ; width: 150px; height: 30px ; padding: 1px 5px 2px 5px; text-align: center; background-color:#5CB85C;border-radius: 4px;"><font style="font-weight:bold" color="white" size="1">Jan. 2026</font></span> Congratulations! 黃意婷老師指導執行之「開發永續性Windows惡意程式行為偵測：行為混淆攻擊與模型韌性加強」計畫獲選為<a href="/files/nstc_award.pdf">資訊工程學門114年度優良計畫執行成果</a></li>
