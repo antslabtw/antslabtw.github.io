@@ -13,7 +13,7 @@ author_profile: true
 
 <img src="/images/Yi-ting3.jpg" align="left" width="25%" height="25%"/>
    &nbsp;&nbsp;&nbsp;&nbsp;**黃意婷 Yi-Ting Huang** <br><br>
-   &nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;Associate Professor<br>
    &nbsp;&nbsp;&nbsp;&nbsp;[Department of Electrical Engineering](https://www.ee.ntust.edu.tw/)<br>
    &nbsp;&nbsp;&nbsp;&nbsp;[National Taiwan University of Science and Technology](https://www.ntust.edu.tw/)<br><br>
    &nbsp;&nbsp;&nbsp;&nbsp;Office: T2-425<br>
